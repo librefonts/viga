@@ -1,0 +1,4556 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <CFF>
+
+    <CFFFont name="Viga-Regular">
+      <version value="001.001"/>
+      <Notice value="Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name &quot;Viga&quot;"/>
+      <FullName value="Viga"/>
+      <FamilyName value="Viga"/>
+      <Weight value="Regular"/>
+      <isFixedPitch value="0"/>
+      <ItalicAngle value="0"/>
+      <UnderlinePosition value="-135"/>
+      <UnderlineThickness value="87"/>
+      <PaintType value="0"/>
+      <CharstringType value="2"/>
+      <FontMatrix value="0.001 0 0 0.001 0 0"/>
+      <FontBBox value="-115 -329 1201 1015"/>
+      <StrokeWidth value="0"/>
+      <!-- charset is dumped separately as the 'GlyphOrder' element -->
+      <Encoding name="StandardEncoding"/>
+      <Private>
+        <BlueValues value="-6 0 571 579 712 718"/>
+        <OtherBlues value="-170 -170"/>
+        <BlueScale value="0.363636"/>
+        <BlueShift value="7"/>
+        <BlueFuzz value="1"/>
+        <StdHW value="124"/>
+        <StdVW value="130"/>
+        <StemSnapH value="87 124 134 154 163"/>
+        <StemSnapV value="118 130 139"/>
+        <ForceBold value="1"/>
+        <LanguageGroup value="0"/>
+        <ExpansionFactor value="0.06"/>
+        <initialRandomSeed value="0"/>
+        <defaultWidthX value="275"/>
+        <nominalWidthX value="561"/>
+        <Subrs>
+          <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
+          <CharString index="0">
+            rmoveto
+            -107 callgsubr
+            return
+          </CharString>
+          <CharString index="1">
+            57 -30 10 -37 -103 callgsubr
+            vhcurveto
+            return
+          </CharString>
+          <CharString index="2">
+            -107 callsubr
+            endchar
+          </CharString>
+          <CharString index="3">
+            623 hmoveto
+            -228 652 rlineto
+            51 -18 -23 9 -32 hhcurveto
+            -34 -24 -12 -48 -21 hvcurveto
+            -228 -652 rlineto
+            145 hlineto
+            39 123 rlineto
+            239 hlineto
+            40 -123 rlineto
+            -72 240 rmoveto
+            -172 hlineto
+            88 return
+          </CharString>
+          <CharString index="4">
+            -105 callgsubr
+            endchar
+          </CharString>
+          <CharString index="5">
+            rmoveto
+            -45 56 rlineto
+            37 -30 -23 11 -24 hhcurveto
+            -17 -12 -15 -16 -6 2 -6 3 -5 hvcurveto
+            94 -121 rlineto
+            104 hlineto
+            94 121 rlineto
+            3 5 2 6 6 vvcurveto
+            16 -11 15 -18 -24 -23 -11 -37 -30 vhcurveto
+            return
+          </CharString>
+          <CharString index="6">
+            -226 hmoveto
+            -106 callsubr
+            return
+          </CharString>
+          <CharString index="7">
+            17 -28 -19 6 -30 hhcurveto
+            -39 -29 -15 -44 -44 hvcurveto
+            50 -52 rlineto
+            17 19 21 7 21 hhcurveto
+            21 20 -7 -11 19 hvcurveto
+            return
+          </CharString>
+          <CharString index="8">
+            -159 287 rlineto
+            69 25 61 72 100 vvcurveto
+            129 -86 99 -145 vhcurveto
+            -118 hlineto
+            -119 -42 -49 -104 hvcurveto
+            -559 139 264 100 vlineto
+            139 -264 rlineto
+            -7 484 rmoveto
+            -55 -40 -49 -61 vhcurveto
+            -131 145 hlineto
+            36 18 27 44 vhcurveto
+            69 hlineto
+            61 40 -39 -65 hvcurveto
+            return
+          </CharString>
+          <CharString index="9">
+            -32 callgsubr
+            hintmask 10111000
+            -90 callgsubr
+            hintmask 01111000
+            -47 callgsubr
+            hintmask 10111000
+            30 -68 rlineto
+            return
+          </CharString>
+          <CharString index="10">
+            vhcurveto
+            130 -22 rmoveto
+            178 -53 113 -188 -81 callgsubr
+            199 42 120 182 vhcurveto
+            return
+          </CharString>
+          <CharString index="11">
+            rmoveto
+            -93 callsubr
+            hintmask 01110111
+            -91 callgsubr
+            hintmask 10101111
+            -93 callgsubr
+            endchar
+          </CharString>
+          <CharString index="12">
+            -24 callsubr
+            -102 callgsubr
+            return
+          </CharString>
+          <CharString index="13">
+            -60 callgsubr
+            hvcurveto
+            hintmask 10111100
+            -75 callgsubr
+            hintmask 01111100
+            -54 callsubr
+            hintmask 10111100
+            -88 callsubr
+          </CharString>
+          <CharString index="14">
+            70 27 -35 -54 hvcurveto
+            -44 -143 vlineto
+            -131 -53 -93 -83 -109 82 -59 100 hvcurveto
+            148 70 rlineto
+            return
+          </CharString>
+          <CharString index="15">
+            rmoveto
+            -98 callgsubr
+            return
+          </CharString>
+          <CharString index="16">
+            -87 callgsubr
+            -67 176 -1 vhcurveto
+            -64 callsubr
+            return
+          </CharString>
+          <CharString index="17">
+            -68 callgsubr
+            211 vlineto
+            20 -69 callsubr
+            return
+          </CharString>
+          <CharString index="18">
+            rmoveto
+            575 vlineto
+            -130 -8 rlineto
+            -137 hlineto
+            -94 callsubr
+          </CharString>
+          <CharString index="19">
+            -99 -51 rlineto
+            -78 -20 45 105 105 20 64 78 hvcurveto
+            99 hlineto
+            endchar
+          </CharString>
+          <CharString index="20">
+            rmoveto
+            -16 -17 -21 -7 -22 hhcurveto
+            -23 -24 8 11 -19 hvcurveto
+            return
+          </CharString>
+          <CharString index="21">
+            718 -107 callsubr
+            return
+          </CharString>
+          <CharString index="22">
+            62 -13 13 -62 -62 -14 -13 -62 -62 14 -14 62 62 13 14 62 vhcurveto
+            return
+          </CharString>
+          <CharString index="23">
+            1 callgsubr
+            -89 callgsubr
+            return
+          </CharString>
+          <CharString index="24">
+            90 -67 27 -78 -79 -66 -27 -90 vhcurveto
+            -62 callgsubr
+            -94 14 rmoveto
+            -82 callsubr
+            return
+          </CharString>
+          <CharString index="25">
+            -38 -19 -9 -32 -33 -18 9 38 vhcurveto
+            111 vlineto
+            38 18 9 33 32 19 -9 -38 vhcurveto
+            return
+          </CharString>
+          <CharString index="26">
+            rmoveto
+            1 28 1 29 25 vvcurveto
+            133 -52 108 -165 return
+          </CharString>
+          <CharString index="27">
+            -84 callgsubr
+            endchar
+          </CharString>
+          <CharString index="28">
+            -27 -5 106 -101 -20 263 96 43 197 -107 107 return
+          </CharString>
+          <CharString index="29">
+            rmoveto
+            -130 -68 rlineto
+            -51 -25 29 36 41 26 return
+          </CharString>
+          <CharString index="30">
+            -54 callgsubr
+            89 vmoveto
+            -63 callgsubr
+            return
+          </CharString>
+          <CharString index="31">
+            rmoveto
+            59 -12 12 -59 -58 -13 -12 -59 -58 13 -4 40 vhcurveto
+            return
+          </CharString>
+          <CharString index="32">
+            -11 callgsubr
+            113 154 -94 callgsubr
+            return
+          </CharString>
+          <CharString index="33">
+            rmoveto
+            250 -112 112 -250 -250 -112 -112 -250 -250 112 -112 250 250 112 112 250 vhcurveto
+            -40 hmoveto
+            -230 -92 -92 -230 -230 -82 92 230 230 82 92 230 220 102 -102 -220 vhcurveto
+            return
+          </CharString>
+          <CharString index="34">
+            rmoveto
+            -155 vlineto
+            114 -93 -114 -93 rlineto
+            -155 vlineto
+            192 171 rlineto
+            28 28 16 23 24 vvcurveto
+            24 -16 24 -26 29 vhcurveto
+            return
+          </CharString>
+          <CharString index="35">
+            -87 callsubr
+            hintmask 11011100
+            -100 callsubr
+            hintmask 11101100
+            -80 callsubr
+          </CharString>
+          <CharString index="36">
+            -6 137 -131 -20 470 117 return
+          </CharString>
+          <CharString index="37">
+            -87 callsubr
+            hintmask 11011000
+            -100 callsubr
+            hintmask 11101000
+            -84 callgsubr
+            return
+          </CharString>
+          <CharString index="38">
+            124 rlineto
+            -231 167 330 124 return
+          </CharString>
+          <CharString index="39">
+            -27 -71 callsubr
+            return
+          </CharString>
+          <CharString index="40">
+            -82 -34 -20 -68 -46 -52 17 23 -23 vhcurveto
+            -78 -85 rlineto
+            -53 53 59 -26 98 hhcurveto
+            138 92 59 201 hvcurveto
+            endchar
+          </CharString>
+          <CharString index="41">
+            -130 -8 -64 callgsubr
+            -60 callgsubr
+            return
+          </CharString>
+          <CharString index="42">
+            rmoveto
+            -139 -466 hlineto
+            -292 466 rlineto
+            -134 30 callgsubr
+            457 hlineto
+            246 -385 rlineto
+            return
+          </CharString>
+          <CharString index="43">
+            122 -1 90 54 159 vvcurveto
+            -117 hlineto
+            return
+          </CharString>
+          <CharString index="44">
+            441 -59 callsubr
+            return
+          </CharString>
+          <CharString index="45">
+            44 -7 callsubr
+            173 124 167 124 return
+          </CharString>
+          <CharString index="46">
+            -163 31 -124 160 return
+          </CharString>
+          <CharString index="47">
+            hstem
+            73 -43 callgsubr
+            -48 callsubr
+            return
+          </CharString>
+          <CharString index="48">
+            694 -106 callgsubr
+            return
+          </CharString>
+          <CharString index="49">
+            hstem
+            53 -43 callgsubr
+            376 569 -69 callgsubr
+            return
+          </CharString>
+          <CharString index="50">
+            hstem
+            217 16 callsubr
+            -77 callgsubr
+            return
+          </CharString>
+          <CharString index="51">
+            vlineto
+            -66 -22 17 57 hvcurveto
+            return
+          </CharString>
+          <CharString index="52">
+            rmoveto
+            57 -12 12 -57 -56 -13 -12 -57 -56 13 -13 56 57 12 13 56 vhcurveto
+            endchar
+          </CharString>
+          <CharString index="53">
+            40 -69 rlineto
+            -43 182 rmoveto
+            return
+          </CharString>
+          <CharString index="54">
+            -21 -51 rlineto
+            -2 17 15 -2 15 hhcurveto
+            83 33 38 52 32 -19 17 -29 8 hvcurveto
+            return
+          </CharString>
+          <CharString index="55">
+            -61 618 138 hstem
+            177 16 callsubr
+            315 687 -55 callsubr
+          </CharString>
+          <CharString index="56">
+            -13 -13 108 -108 212 56 89 131 103 return
+          </CharString>
+          <CharString index="57">
+            rmoveto
+            92 -47 255 -92 -255 -74 vlineto
+            58 170 rlineto
+            -101 hlineto
+            -62 -169 -2 -20 -16 vvcurveto
+            -33 21 -24 48 vhcurveto
+            112 -89 92 89 hlineto
+            return
+          </CharString>
+          <CharString index="58">
+            -300 -634 rlineto
+            102 hlineto
+            337 712 rlineto
+            -426 hlineto
+            -79 -66 -26 -90 hvcurveto
+            -62 callgsubr
+            endchar
+          </CharString>
+          <CharString index="59">
+            203 hmoveto
+            521 -130 -521 vlineto
+            return
+          </CharString>
+          <CharString index="60">
+            82 20 -32 -55 hvcurveto
+            118 hlineto
+            126 -73 78 -147 -77 -62 -30 -34 -32 vhcurveto
+            -47 -49 -12 -84 -94 vvcurveto
+            -95 12 -94 47 -49 vhcurveto
+            return
+          </CharString>
+          <CharString index="61">
+            rmoveto
+            -133 -267 hlineto
+            57 22 76 75 85 vvcurveto
+            return
+          </CharString>
+          <CharString index="62">
+            -18 -14 117 359 117 return
+          </CharString>
+          <CharString index="63">
+            134 92 134 return
+          </CharString>
+          <CharString index="64">
+            -33 callsubr
+            11 735 rmoveto
+            -85 callsubr
+            return
+          </CharString>
+          <CharString index="65">
+            34 6 25 33 33 5 -20 -11 -29 -45 -52 -27 -30 vhcurveto
+            -74 -82 rlineto
+            -17 -18 -11 -14 -25 vvcurveto
+            -41 37 -11 32 vhcurveto
+            endchar
+          </CharString>
+          <CharString index="66">
+            -38 callgsubr
+            236 return
+          </CharString>
+          <CharString index="67">
+            30 14 17 31 vhcurveto
+            return
+          </CharString>
+          <CharString index="68">
+            1 callgsubr
+            -61 callgsubr
+            return
+          </CharString>
+          <CharString index="69">
+            187 -29 callsubr
+            return
+          </CharString>
+          <CharString index="70">
+            -256 -59 callgsubr
+            return
+          </CharString>
+          <CharString index="71">
+            443 276 rmoveto
+            -95 -9 -21 -63 -101 hhcurveto
+            -126 -8 103 96 hvcurveto
+            62 vlineto
+            108 4 107 130 vhcurveto
+            return
+          </CharString>
+          <CharString index="72">
+            563 210 rmoveto
+            129 -74 61 -117 16 vhcurveto
+            -114 12 rlineto
+            -45 6 -42 26 47 vvcurveto
+            49 46 41 return
+          </CharString>
+          <CharString index="73">
+            rmoveto
+            -59 12 -12 59 58 13 12 59 58 -13 4 -40 vhcurveto
+            return
+          </CharString>
+          <CharString index="74">
+            -50 -110 74 hlineto
+            107 45 75 74 hvcurveto
+            return
+          </CharString>
+          <CharString index="75">
+            hstemhm
+            34 118 209 129 return
+          </CharString>
+          <CharString index="76">
+            rmoveto
+            122 -443 -122 vlineto
+            return
+          </CharString>
+          <CharString index="77">
+            rmoveto
+            -78 -1 -77 -110 return
+          </CharString>
+          <CharString index="78">
+            676 -100 callgsubr
+            return
+          </CharString>
+          <CharString index="79">
+            83 139 return
+          </CharString>
+          <CharString index="80">
+            -10 callsubr
+            127 154 -60 callsubr
+            return
+          </CharString>
+          <CharString index="81">
+            rmoveto
+            84 -142 vlineto
+            58 69 87 69 94 vvcurveto
+            64 -48 37 -82 -117 -17 -66 -77 vhcurveto
+            91 hlineto
+            return
+          </CharString>
+          <CharString index="82">
+            -41 callgsubr
+            84 -38 callgsubr
+            142 return
+          </CharString>
+          <CharString index="83">
+            hstem
+            -18 callgsubr
+            -15 callsubr
+            return
+          </CharString>
+          <CharString index="84">
+            -6 84 -78 -20 303 84 -27 84 205 83 hstemhm
+            73 94 102 94 145 94 102 94 return
+          </CharString>
+          <CharString index="85">
+            -5 callsubr
+            594 -20 return
+          </CharString>
+          <CharString index="86">
+            124 -40 callgsubr
+            return
+          </CharString>
+          <CharString index="87">
+            rmoveto
+            -130 -563 hlineto
+            -31 -13 -16 -33 vhcurveto
+            return
+          </CharString>
+          <CharString index="88">
+            -72 40 42 -8 31 hhcurveto
+            36 31 36 44 hvcurveto
+            return
+          </CharString>
+          <CharString index="89">
+            52 vlineto
+            86 12 62 return
+          </CharString>
+          <CharString index="90">
+            -139 -712 return
+          </CharString>
+          <CharString index="91">
+            113 vstem
+            181 501 rmoveto
+            -19 callgsubr
+            return
+          </CharString>
+          <CharString index="92">
+            139 vstem
+            return
+          </CharString>
+          <CharString index="93">
+            571 rmoveto
+            -66 callgsubr
+            return
+          </CharString>
+          <CharString index="94">
+            46 9 13 33 32 10 -21 -7 -22 -6 -23 -8 -15 vhcurveto
+            -40 18 rlineto
+            return
+          </CharString>
+          <CharString index="95">
+            130 196 -43 callgsubr
+            return
+          </CharString>
+          <CharString index="96">
+            15 callgsubr
+            vstem
+            return
+          </CharString>
+          <CharString index="97">
+            21 -21 521 -20 return
+          </CharString>
+          <CharString index="98">
+            28 callgsubr
+            94 110 -45 callgsubr
+            return
+          </CharString>
+          <CharString index="99">
+            139 288 return
+          </CharString>
+          <CharString index="100">
+            0 124 return
+          </CharString>
+          <CharString index="101">
+            218 -87 111 -196 -23 callgsubr
+            -217 vhcurveto
+            return
+          </CharString>
+          <CharString index="102">
+            -6 124 return
+          </CharString>
+          <CharString index="103">
+            387 vlineto
+            110 -37 80 -124 vhcurveto
+            -165 -74 rlineto
+            return
+          </CharString>
+          <CharString index="104">
+            hstemhm
+            73 139 287 139 return
+          </CharString>
+          <CharString index="105">
+            -450 -17 callgsubr
+            return
+          </CharString>
+          <CharString index="106">
+            hlineto
+            -337 -712 rlineto
+            return
+          </CharString>
+          <CharString index="107">
+            12 0 -20 35 -21 return
+          </CharString>
+          <CharString index="108">
+            139 75 rlineto
+            return
+          </CharString>
+          <CharString index="109">
+            83 -101 200 return
+          </CharString>
+          <CharString index="110">
+            -53 -21 860 -20 hstem
+            110 -43 callgsubr
+            240 return
+          </CharString>
+          <CharString index="111">
+            hstemhm
+            37 2 callgsubr
+            134 256 136 return
+          </CharString>
+          <CharString index="112">
+            hlineto
+            10 167 rlineto
+            -139 hlineto
+            -10 -167 rlineto
+            return
+          </CharString>
+          <CharString index="113">
+            hlineto
+            -11 -179 rlineto
+            139 hlineto
+            11 179 rlineto
+            return
+          </CharString>
+          <CharString index="114">
+            -6 119 -119 202 return
+          </CharString>
+          <CharString index="115">
+            21 -21 450 return
+          </CharString>
+          <CharString index="116">
+            93 21 -21 264 116 208 124 return
+          </CharString>
+          <CharString index="117">
+            225 rmoveto
+            121 return
+          </CharString>
+          <CharString index="118">
+            -17 -70 14 vhcurveto
+            124 6 rlineto
+            121 return
+          </CharString>
+          <CharString index="119">
+            21 47 47 vhcurveto
+            61 61 8 74 4 79 return
+          </CharString>
+          <CharString index="120">
+            rmoveto
+            14 -2 13 -3 11 vhcurveto
+            147 hlineto
+            return
+          </CharString>
+          <CharString index="121">
+            21 -21 571 -20 hstem
+            return
+          </CharString>
+          <CharString index="122">
+            -67 -2 -6 -39 -96 hhcurveto
+            return
+          </CharString>
+          <CharString index="123">
+            138 vstem
+            return
+          </CharString>
+          <CharString index="124">
+            -20 hstemhm
+            31 15 callgsubr
+            return
+          </CharString>
+          <CharString index="125">
+            -20 hstem
+            71 -43 callgsubr
+            564 hmoveto
+            return
+          </CharString>
+          <CharString index="126">
+            77 82 hvcurveto
+            52 vlineto
+            86 2 62 98 return
+          </CharString>
+          <CharString index="127">
+            -40 callgsubr
+            232 -15 callsubr
+            return
+          </CharString>
+          <CharString index="128">
+            752 -130 -753 vlineto
+            endchar
+          </CharString>
+          <CharString index="129">
+            37 39 -2 48 5 73 rrcurveto
+            endchar
+          </CharString>
+          <CharString index="130">
+            -13 -7 callsubr
+            464 124 return
+          </CharString>
+          <CharString index="131">
+            -83 0 112 347 112 return
+          </CharString>
+          <CharString index="132">
+            -53 callgsubr
+            hstem
+            return
+          </CharString>
+          <CharString index="133">
+            rmoveto
+            -111 -13 -109 -131 return
+          </CharString>
+          <CharString index="134">
+            588 rmoveto
+            124 return
+          </CharString>
+          <CharString index="135">
+            hstemhm
+            73 130 return
+          </CharString>
+          <CharString index="136">
+            72 117 73 return
+          </CharString>
+          <CharString index="137">
+            389 rmoveto
+            return
+          </CharString>
+        </Subrs>
+      </Private>
+      <CharStrings>
+        <CharString name=".notdef">
+          -78 22 -21 711 -20 hstem
+          61 1 rmoveto
+          358 711 -358 hlineto
+          endchar
+        </CharString>
+        <CharString name=".null">
+          -561 endchar
+        </CharString>
+        <CharString name="A">
+          -65 callgsubr
+          hstem
+          -104 callsubr
+          282 rlineto
+          endchar
+        </CharString>
+        <CharString name="AE">
+          418 -7 callsubr
+          -1 117 57 124 167 124 hstemhm
+          458 139 hintmask 01111000
+          458 240 rmoveto
+          -162 hlineto
+          162 262 rlineto
+          hintmask 10111000
+          469 -502 rmoveto
+          -90 callsubr
+          -469 hlineto
+          -439 -712 rlineto
+          145 hlineto
+          hintmask 01111000
+          74 123 rlineto
+          228 hlineto
+          hintmask 10111000
+          -87 23 69 -36 127 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="Aacute">
+          -78 callgsubr
+          146 457 -103 callsubr
+        </CharString>
+        <CharString name="Acircumflex">
+          -65 callgsubr
+          258 -20 hstem
+          -101 callgsubr
+          -5 383 -105 callsubr
+        </CharString>
+        <CharString name="Adieresis">
+          -65 callgsubr
+          112 134 hstem
+          137 -44 callsubr
+          vstem
+          -101 callgsubr
+          175 369 -104 callgsubr
+        </CharString>
+        <CharString name="Agrave">
+          -78 callgsubr
+          -79 351 -100 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Aring">
+          -65 callgsubr
+          61 29 callsubr
+          hstem
+          186 29 callgsubr
+          vstem
+          -101 callgsubr
+          126 382 -88 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Atilde">
+          -65 callgsubr
+          100 -7 callgsubr
+          hintmask 11110000
+          -101 callgsubr
+          129 399 -87 callsubr
+          hintmask 11101000
+          -100 callsubr
+          hintmask 11110000
+          -80 callsubr
+        </CharString>
+        <CharString name="B">
+          97 -7 callsubr
+          185 125 154 -21 callsubr
+          228 -15 callsubr
+          599 205 rmoveto
+          100 -55 46 -43 20 vhcurveto
+          36 17 52 50 79 vvcurveto
+          122 -66 73 -139 vhcurveto
+          -301 -529 hlineto
+          -136 61 -47 156 vhcurveto
+          96 hlineto
+          127 76 72 133 hvcurveto
+          -149 307 rmoveto
+          -44 -18 -34 -59 vhcurveto
+          -151 154 151 hlineto
+          59 18 -32 -44 hvcurveto
+          10 -300 rmoveto
+          -48 -15 -40 -63 vhcurveto
+          -72 hlineto
+          -60 -28 17 56 hvcurveto
+          112 160 vlineto
+          63 15 -39 -58 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="C">
+          46 -5 callsubr
+          357 -12 callgsubr
+          39 139 hintmask 10110000
+          -36 callsubr
+          hintmask 11010000
+          -34 callgsubr
+          -171 57 -150 216 164 96 99 183 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="CR">
+          -561 endchar
+        </CharString>
+        <CharString name="Ccedilla">
+          15 -171 52 114 123 357 -12 callgsubr
+          39 139 143 66 hintmask 11011100
+          -36 callsubr
+          hintmask 11101100
+          -34 callgsubr
+          -163 52 -144 191 -13 vhcurveto
+          -19 -49 rlineto
+          -50 callgsubr
+          20 rlineto
+          142 13 83 97 170 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="D">
+          98 -7 callsubr
+          464 -21 callsubr
+          259 -15 callsubr
+          620 359 rmoveto
+          -6 callgsubr
+          -525 hlineto
+          -140 61 -47 206 74 77 12 callsubr
+          rrcurveto
+          -140 77 -16 callgsubr
+          394 -14 callgsubr
+        </CharString>
+        <CharString name="Delta">
+          76 0 117 595 -20 hstem
+          631 hmoveto
+          -239 658 rlineto
+          36 -13 -31 18 -31 hhcurveto
+          -31 -30 -18 -37 -16 hvcurveto
+          -237 -657 rlineto
+          447 117 rmoveto
+          -264 hlineto
+          134 405 rlineto
+          endchar
+        </CharString>
+        <CharString name="E">
+          -62 callsubr
+          1 callgsubr
+          552 hmoveto
+          -68 callgsubr
+          221 vlineto
+          10 -69 callsubr
+          -469 -524 hlineto
+          -141 58 -47 159 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="Eacute">
+          -74 callgsubr
+          150 959 -103 callsubr
+        </CharString>
+        <CharString name="Ecircumflex">
+          -62 callsubr
+          238 -20 -84 callsubr
+          885 vmoveto
+          -107 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Edieresis">
+          -62 callsubr
+          92 17 callgsubr
+          -28 callsubr
+          -92 -44 callsubr
+          hintmask 11111010
+          -89 callgsubr
+          180 871 rmoveto
+          -106 callsubr
+          hintmask 11110110
+          -22 callgsubr
+        </CharString>
+        <CharString name="Egrave">
+          -74 callgsubr
+          -74 853 -100 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Eth">
+          121 -7 callsubr
+          183 106 175 124 hstem
+          93 139 259 140 vstem
+          36 307 rmoveto
+          57 -110 hlineto
+          -140 71 -57 206 74 67 12 callsubr
+          -1 77 rcurveline
+          -6 callgsubr
+          -299 -57 hlineto
+          455 -54 -16 callgsubr
+          113 130 106 -130 175 -14 callgsubr
+        </CharString>
+        <CharString name="Euro">
+          -19 -5 callsubr
+          117 96 69 96 -21 -12 callgsubr
+          56 133 188 129 hintmask 11101110
+          10 400 rmoveto
+          44 -69 -44 -96 46 hlineto
+          -156 12 60 -85 170 hhcurveto
+          64 57 28 50 40 hvcurveto
+          43 53 1 76 3 75 rrcurveto
+          -129 hlineto
+          -75 -4 16 -83 -91 hhcurveto
+          -73 -25 55 62 -8 hvcurveto
+          87 96 -90 69 90 96 -83 hlineto
+          55 10 27 43 65 hhcurveto
+          hintmask 11010110
+          73 -5 -60 -59 8 hvcurveto
+          129 hlineto
+          -3 56 -6 66 -35 43 rrcurveto
+          50 -40 -57 28 -64 hhcurveto
+          hintmask 11101110
+          -158 -63 -83 -139 -18 hvcurveto
+          -49 hlineto
+          endchar
+        </CharString>
+        <CharString name="F">
+          29 21 -21 289 124 175 -21 callsubr
+          vstem
+          552 27 callsubr
+          -316 vlineto
+          -113 -40 -40 -105 hvcurveto
+          -567 139 289 251 vlineto
+          10 124 rlineto
+          -261 99 hlineto
+          56 20 20 59 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="G">
+          76 -5 callsubr
+          122 116 119 -12 callgsubr
+          39 147 184 205 -129 129 hintmask 11011100
+          39 335 rmoveto
+          -224 81 -117 205 108 99 46 101 43 vhcurveto
+          215 -205 -116 86 -48 vlineto
+          -55 -27 -44 -19 -52 hhcurveto
+          -148 2 118 120 -1 hvcurveto
+          120 1 118 132 vhcurveto
+          hintmask 11101010
+          78 49 -35 -84 hvcurveto
+          130 hlineto
+          56 -12 66 -43 43 vhcurveto
+          50 -50 -71 28 -81 hhcurveto
+          -179 -101 -110 -185 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="H">
+          124 21 -21 288 123 301 -20 hstem
+          73 139 261 -15 callsubr
+          612 hmoveto
+          712 -139 -301 -261 301 -139 -712 -8 callsubr
+          261 -288 vlineto
+          endchar
+        </CharString>
+        <CharString name="I">
+          -37 callsubr
+          -39 callsubr
+          endchar
+        </CharString>
+        <CharString name="IJ">
+          255 -5 callsubr
+          -118 -20 732 -20 hstemhm
+          -28 callsubr
+          391 139 hintmask 01111000
+          -61 callgsubr
+          669 -5 callgsubr
+          -139 -492 hlineto
+          hintmask 10111000
+          -67 callsubr
+        </CharString>
+        <CharString name="Iacute">
+          -35 callgsubr
+          197 959 -103 callsubr
+        </CharString>
+        <CharString name="Icircumflex">
+          -37 callsubr
+          258 -20 -39 callsubr
+          68 885 -105 callsubr
+        </CharString>
+        <CharString name="Idieresis">
+          -37 callsubr
+          112 17 callgsubr
+          -27 134 -24 139 -23 134 hintmask 11101000
+          -61 callgsubr
+          hintmask 11110100
+          250 871 -104 callgsubr
+        </CharString>
+        <CharString name="Igrave">
+          -35 callgsubr
+          22 853 -100 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Itilde">
+          -37 callsubr
+          100 -7 callgsubr
+          -28 callsubr
+          hintmask 11101000
+          287 901 -70 callsubr
+          -111 -851 rmoveto
+          22 callgsubr
+        </CharString>
+        <CharString name="J">
+          -50 -22 callsubr
+          hstem
+          308 -15 callsubr
+          447 712 -49 callgsubr
+        </CharString>
+        <CharString name="Jcircumflex">
+          -26 -22 callsubr
+          257 -20 hstem
+          308 -15 callsubr
+          385 884 -107 callsubr
+          107 -116 -49 callgsubr
+        </CharString>
+        <CharString name="K">
+          104 -1 callgsubr
+          83 139 vstem
+          404 377 rmoveto
+          227 335 rlineto
+          -140 hlineto
+          -269 -398 rlineto
+          398 -139 30 callgsubr
+          139 vlineto
+          97 130 168 -269 rlineto
+          162 hlineto
+          endchar
+        </CharString>
+        <CharString name="L">
+          -11 -7 callsubr
+          588 -20 hstem
+          83 139 -39 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Ldotaccent">
+          33 -7 callsubr
+          227 138 223 -20 -40 callgsubr
+          127 138 -39 callgsubr
+          177 420 -55 callsubr
+        </CharString>
+        <CharString name="Lslash">
+          32 -7 callsubr
+          588 -20 hstemhm
+          37 205 -139 139 hintmask 11100000
+          542 hmoveto
+          124 -212 -56 callsubr
+          145 vlineto
+          126 80 rlineto
+          115 vlineto
+          -126 -80 rlineto
+          254 vlineto
+          hintmask 11010000
+          -139 -342 hlineto
+          hintmask 11100000
+          -66 -41 rlineto
+          -116 vlineto
+          hintmask 11010000
+          66 42 rlineto
+          -57 vlineto
+          -44 callgsubr
+          endchar
+        </CharString>
+        <CharString name="M">
+          250 -1 callgsubr
+          73 139 397 -15 callsubr
+          609 425 rmoveto
+          -425 139 712 -137 vlineto
+          -200 -411 -201 411 rlineto
+          -137 30 callgsubr
+          425 hlineto
+          130 -267 rlineto
+          -38 19 24 -19 26 hhcurveto
+          25 26 17 37 19 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="N">
+          138 7 callgsubr
+          -3 callsubr
+          hintmask 10111000
+          638 712 -65 callsubr
+          hintmask 01111000
+          -19 callsubr
+          endchar
+        </CharString>
+        <CharString name="Nacute">
+          138 7 callgsubr
+          104 154 -3 callsubr
+          hintmask 10111100
+          509 950 -105 callgsubr
+          203 -132 -65 callsubr
+          hintmask 01111100
+          -19 callsubr
+          endchar
+        </CharString>
+        <CharString name="Ntilde">
+          151 7 callgsubr
+          100 86 -45 87 -3 callsubr
+          hintmask 10110110
+          638 712 -65 callsubr
+          hintmask 01110110
+          -19 callsubr
+          -148 829 -87 callsubr
+          hintmask 10101110
+          -100 callsubr
+          hintmask 10110110
+          -80 callsubr
+        </CharString>
+        <CharString name="O">
+          83 -6 124 476 124 -24 callsubr
+          605 30 callsubr
+          -6 callsubr
+          -52 vlineto
+          -243 2 callsubr
+          -30 callgsubr
+          vhcurveto
+          -139 3 26 callsubr
+          -135 -8 -71 callgsubr
+          14 100 130 128 16 -100 -119 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="OE">
+          405 -5 callsubr
+          -118 -20 317 124 173 118 hstemhm
+          -18 callgsubr
+          138 hintmask 10111100
+          466 341 -97 callgsubr
+          hintmask 01111100
+          468 -389 rmoveto
+          -90 callsubr
+          -612 hlineto
+          -200 -83 -105 -232 hvcurveto
+          -38 vlineto
+          hintmask 10111100
+          -242 2 callsubr
+          83 63 17 39 46 vhcurveto
+          hintmask 01111100
+          -35 36 59 -15 83 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="Oacute">
+          -83 callgsubr
+          7 570 -103 callsubr
+        </CharString>
+        <CharString name="Ocircumflex">
+          83 -53 callgsubr
+          232 -20 -95 callsubr
+          -144 496 -105 callsubr
+        </CharString>
+        <CharString name="Odieresis">
+          83 -53 callgsubr
+          86 17 callgsubr
+          39 139 -36 -44 callsubr
+          -36 139 hintmask 11110010
+          -102 callgsubr
+          hintmask 11101100
+          36 482 -104 callgsubr
+        </CharString>
+        <CharString name="Ograve">
+          -83 callgsubr
+          -218 464 -100 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Omega">
+          96 0 122 472 124 hstemhm
+          39 139 -139 214 143 209 -139 139 hintmask 11011000
+          36 hmoveto
+          217 hlineto
+          -2 48 0 30 11 53 rrcurveto
+          hintmask 11100100
+          -69 33 -14 108 -1 86 rrcurveto
+          17 vlineto
+          119 14 100 130 128 16 -100 -119 vhcurveto
+          -17 vlineto
+          -84 -18 -104 -61 -35 vhcurveto
+          hintmask 11101000
+          10 -51 2 -31 -3 -53 rrcurveto
+          217 122 -71 hlineto
+          40 44 23 65 104 vvcurveto
+          54 vlineto
+          -6 callsubr
+          -32 vlineto
+          -111 23 -75 44 -50 vhcurveto
+          -70 hlineto
+          endchar
+        </CharString>
+        <CharString name="Oslash">
+          100 -24 -21 39 124 476 124 36 -20 -24 callsubr
+          80 -45 rmoveto
+          102 hlineto
+          25 54 rlineto
+          -10 33 38 -5 44 hhcurveto
+          -30 callgsubr
+          hvcurveto
+          54 vlineto
+          125 -29 90 -62 54 vhcurveto
+          45 96 rlineto
+          -102 hlineto
+          -25 -52 rlineto
+          10 -32 -36 6 -42 hhcurveto
+          -23 callgsubr
+          -217 hvcurveto
+          -52 vlineto
+          -139 27 -92 60 -54 vhcurveto
+          340 285 26 callsubr
+          -23 -20 3 6 -16 vhcurveto
+          184 390 rlineto
+          15 -39 4 -49 -54 vvcurveto
+          -288 hmoveto
+          119 14 100 130 21 19 -3 -6 15 vhcurveto
+          -182 -387 rlineto
+          -15 40 -2 50 50 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="Otilde">
+          83 -53 callgsubr
+          74 -7 callgsubr
+          -18 callgsubr
+          139 hintmask 11101100
+          -102 callgsubr
+          -10 512 -72 callsubr
+        </CharString>
+        <CharString name="P">
+          67 21 -21 228 125 235 -21 callsubr
+          233 -15 callsubr
+          594 470 rmoveto
+          161 -88 81 -147 vhcurveto
+          -276 30 callgsubr
+          228 137 hlineto
+          147 88 81 161 hvcurveto
+          -139 hmoveto
+          -88 -40 -29 -63 vhcurveto
+          -130 235 130 hlineto
+          63 40 -30 -88 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="Q">
+          82 -6 124 476 124 -24 callsubr
+          605 376 rmoveto
+          118 -1 76 -70 70 vhcurveto
+          50 -50 -81 28 -81 hhcurveto
+          -81 -82 -28 -50 -50 hvcurveto
+          -68 -68 -2 -84 -113 vvcurveto
+          -38 vlineto
+          -113 2 -84 68 -68 vhcurveto
+          -50 50 82 -28 81 hhcurveto
+          300 123 hlineto
+          -34 -10 -34 -5 -34 -2 rrcurveto
+          61 47 24 86 102 vvcurveto
+          -139 6 -97 callgsubr
+          endchar
+        </CharString>
+        <CharString name="R">
+          9 callsubr
+          20 callsubr
+          622 hmoveto
+          -99 callsubr
+          endchar
+        </CharString>
+        <CharString name="Racute">
+          9 callsubr
+          93 154 20 callsubr
+          457 959 -105 callgsubr
+          239 -853 rmoveto
+          -99 callsubr
+          endchar
+        </CharString>
+        <CharString name="Rcaron">
+          9 callsubr
+          239 -20 20 callsubr
+          327 847 -102 callsubr
+          250 -903 rmoveto
+          -99 callsubr
+          endchar
+        </CharString>
+        <CharString name="Rcommaaccent">
+          93 -308 -21 329 -20 284 116 0 208 0 -21 callsubr
+          39 133 60 -15 callsubr
+          622 hmoveto
+          -99 callsubr
+          -60 -546 -46 callsubr
+          endchar
+        </CharString>
+        <CharString name="S">
+          6 callgsubr
+          4 callsubr
+          hintmask 10101100
+          -35 callsubr
+          84 47 56 11 callsubr
+          -104 81 -133 -164 -24 callgsubr
+          -43 -31 -82 vhcurveto
+          hintmask 11010100
+          -66 -82 8 callgsubr
+          -173 164 -59 108 149 114 78 138 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="Scaron">
+          6 callgsubr
+          231 -20 4 callsubr
+          hintmask 10110110
+          -35 callsubr
+          74 47 76 11 callsubr
+          -124 81 -133 -154 -24 callgsubr
+          -64 -31 -82 vhcurveto
+          hintmask 11011010
+          -66 -61 8 callgsubr
+          -173 143 -59 108 149 135 78 138 vhcurveto
+          -269 635 -102 callsubr
+          endchar
+        </CharString>
+        <CharString name="T">
+          10 21 -21 588 124 hstem
+          216 -15 callsubr
+          546 27 callsubr
+          -520 -124 190 -588 139 588 vlineto
+          endchar
+        </CharString>
+        <CharString name="Thorn">
+          72 21 -21 138 124 195 124 131 -20 -40 callgsubr
+          213 -15 callsubr
+          574 360 rmoveto
+          151 -68 70 -167 vhcurveto
+          -117 131 -139 30 callgsubr
+          138 117 hlineto
+          167 68 81 141 hvcurveto
+          -139 hmoveto
+          -78 -20 -20 -83 vhcurveto
+          -110 195 110 hlineto
+          83 20 -19 -78 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="U">
+          -11 callgsubr
+          -94 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Uacute">
+          -75 callsubr
+          -121 715 -103 callsubr
+        </CharString>
+        <CharString name="Ucircumflex">
+          -11 callgsubr
+          258 -20 -94 callgsubr
+          -272 641 -105 callsubr
+        </CharString>
+        <CharString name="Udieresis">
+          -11 callgsubr
+          112 17 callgsubr
+          62 139 -47 -44 callsubr
+          -46 138 hintmask 11110010
+          -96 callgsubr
+          hintmask 11101100
+          -92 627 -104 callgsubr
+        </CharString>
+        <CharString name="Ugrave">
+          -75 callsubr
+          -346 609 -100 callgsubr
+          endchar
+        </CharString>
+        <CharString name="V">
+          20 712 -20 hstem
+          578 -5 callgsubr
+          -145 hlineto
+          -143 -464 -143 464 rlineto
+          -144 hlineto
+          221 -672 24 -60 82 -1 24 61 rlinecurve
+          endchar
+        </CharString>
+        <CharString name="W">
+          326 -59 callgsubr
+          25 -20 hstemhm
+          hintmask 11000000
+          881 -5 callgsubr
+          -145 hlineto
+          -111 -449 -108 371 rlineto
+          hintmask 10100000
+          45 -13 -16 38 -42 hhcurveto
+          -47 -19 -38 -45 -10 hvcurveto
+          -109 -371 rlineto
+          hintmask 11000000
+          -110 449 rlineto
+          -145 hlineto
+          190 -712 rlineto
+          116 hlineto
+          131 432 131 -432 rlineto
+          116 hlineto
+          endchar
+        </CharString>
+        <CharString name="X">
+          79 -1 callgsubr
+          645 hmoveto
+          -240 365 224 347 rlineto
+          -170 hlineto
+          -135 -230 -133 230 rlineto
+          -171 hlineto
+          224 -347 -239 -365 rlineto
+          172 hlineto
+          147 248 149 -248 rlineto
+          endchar
+        </CharString>
+        <CharString name="Y">
+          11 21 -21 712 -20 -57 callsubr
+          endchar
+        </CharString>
+        <CharString name="Yacute">
+          11 -59 callgsubr
+          113 154 -57 callsubr
+          81 667 -103 callsubr
+        </CharString>
+        <CharString name="Ydieresis">
+          11 -59 callgsubr
+          112 17 callgsubr
+          105 134 -22 138 -24 134 hintmask 11101000
+          -77 callgsubr
+          hintmask 11110100
+          110 579 -104 callgsubr
+        </CharString>
+        <CharString name="Z">
+          23 callsubr
+          -58 callgsubr
+          endchar
+        </CharString>
+        <CharString name="Zcaron">
+          23 callsubr
+          237 -20 -58 callgsubr
+          131 845 -102 callsubr
+          endchar
+        </CharString>
+        <CharString name="a">
+          -68 callsubr
+          8 -20 -31 callgsubr
+          hintmask 01011100
+          466 hmoveto
+          575 vlineto
+          hintmask 10101100
+          -28 callgsubr
+          rlineto
+          hintmask 01101100
+          -54 callsubr
+          hintmask 10101100
+          -88 callsubr
+        </CharString>
+        <CharString name="a.alt">
+          -79 callsubr
+          -32 callsubr
+          hintmask 10101110
+          264 472 rmoveto
+          -93 callsubr
+          hintmask 01110110
+          -91 callgsubr
+          hintmask 10101110
+          -93 callgsubr
+          endchar
+        </CharString>
+        <CharString name="aacute">
+          -27 callgsubr
+          402 -80 callgsubr
+          138 -676 -89 callsubr
+        </CharString>
+        <CharString name="aacute.alt">
+          -36 callgsubr
+          402 -80 callgsubr
+          -64 -204 -96 callsubr
+        </CharString>
+        <CharString name="acircumflex">
+          -68 callsubr
+          216 -20 -31 callgsubr
+          hintmask 01111100
+          261 -86 callsubr
+          250 -662 -89 callsubr
+        </CharString>
+        <CharString name="acircumflex.alt">
+          -79 callsubr
+          204 -20 -32 callsubr
+          hintmask 10101111
+          261 -86 callsubr
+          48 -190 -96 callsubr
+        </CharString>
+        <CharString name="acute">
+          -61 10 callgsubr
+          401 -80 callgsubr
+          endchar
+        </CharString>
+        <CharString name="adieresis">
+          -68 callsubr
+          60 17 callgsubr
+          9 130 -58 -44 callsubr
+          -105 130 hintmask 01110110
+          -63 callsubr
+          hintmask 01111001
+          251 -694 -52 callgsubr
+          hintmask 10111010
+          -75 callgsubr
+          hintmask 01111001
+          -54 callsubr
+          hintmask 10111001
+          -88 callsubr
+        </CharString>
+        <CharString name="adieresis.alt">
+          -79 callsubr
+          48 17 callgsubr
+          34 118 -71 -44 callsubr
+          -80 129 hintmask 1010110110000000
+          -63 callsubr
+          49 -222 rmoveto
+          hintmask 1011011001000000
+          -93 callsubr
+          hintmask 0111011001000000
+          -91 callgsubr
+          hintmask 1010111001000000
+          -93 callgsubr
+          endchar
+        </CharString>
+        <CharString name="ae">
+          293 -5 100 -100 204 56 89 38 196 -103 103 1 -20 hstemhm
+          41 111 206 130 214 118 hintmask 1010101110000000
+          358 169 -78 callsubr
+          46 57 hvcurveto
+          123 hlineto
+          130 91 rmoveto
+          -63 callgsubr
+          116 -89 -81 callsubr
+          -75 -57 -17 -36 -41 vhcurveto
+          hintmask 1010011110000000
+          34 -38 -57 20 -74 hhcurveto
+          hintmask 0111001110000000
+          -147 -73 -71 -126 hvcurveto
+          108 hlineto
+          65 30 25 82 70 27 -35 -54 vhcurveto
+          -23 vlineto
+          -4 0 -5 -1 -5 vhcurveto
+          -142 hlineto
+          -131 -53 -100 -83 -109 82 -59 100 hvcurveto
+          182 88 38 -72 70 -23 104 -1 rlinecurve
+          -64 callsubr
+          hintmask 1011001110000000
+          -54 callgsubr
+          endchar
+        </CharString>
+        <CharString name="agrave">
+          -27 callgsubr
+          -38 callsubr
+          353 -782 -89 callsubr
+        </CharString>
+        <CharString name="agrave.alt">
+          -36 callgsubr
+          -38 callsubr
+          151 -310 -96 callsubr
+        </CharString>
+        <CharString name="ampersand">
+          160 -6 120 185 106 96 226 -120 120 hstemhm
+          100 140 -113 113 -113 134 195 131 -105 129 hintmask 1110010010000000
+          434 299 rmoveto
+          48 hlineto
+          -136 -3 -21 -49 -97 hhcurveto
+          -93 -28 34 55 81 60 35 62 26 hvcurveto
+          -24 111 -19 -7 -17 -8 -16 -7 rlinecurve
+          hintmask 1101001100000000
+          -16 29 -9 38 37 vvcurveto
+          17 23 52 67 vhcurveto
+          hintmask 1110010100000000
+          86 19 -24 -82 hvcurveto
+          131 hlineto
+          156 -77 70 -159 -139 -85 -58 -130 -67 21 -56 36 -42 vhcurveto
+          hintmask 1110100010000000
+          -70 -55 -14 -59 -64 vvcurveto
+          -124 84 -78 177 166 90 44 261 -6 vhcurveto
+          92 106 -269 hlineto
+          endchar
+        </CharString>
+        <CharString name="approxequal">
+          45 81 126 -68 125 43 125 -68 126 hstemhm
+          hintmask 10100000
+          486 475 rmoveto
+          -37 -37 -23 -6 -27 hhcurveto
+          -29 -23 10 15 -29 hvcurveto
+          hintmask 10010000
+          23 -43 -33 10 -25 callgsubr
+          hintmask 10100000
+          -23 43 33 -10 26 callgsubr
+          -82 -144 rmoveto
+          -37 -37 -22 -5 -27 hhcurveto
+          -29 -24 9 15 -29 hvcurveto
+          hintmask 01100000
+          23 -43 -32 10 -41 hhcurveto
+          -61 -43 -24 -62 -62 hvcurveto
+          83 -82 rlineto
+          37 37 23 6 27 hhcurveto
+          29 23 -10 -15 29 hvcurveto
+          hintmask 10100000
+          -23 43 33 -10 41 hhcurveto
+          61 41 24 62 62 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="aring">
+          -68 callsubr
+          17 29 callsubr
+          hstemhm
+          9 130 -9 29 callgsubr
+          -56 130 hintmask 0111101100000000
+          392 715 -88 callgsubr
+          hintmask 0111110010000000
+          147 -715 -52 callgsubr
+          hintmask 1011110100000000
+          -75 callgsubr
+          hintmask 0111110010000000
+          -54 callsubr
+          hintmask 1011110010000000
+          -88 callsubr
+        </CharString>
+        <CharString name="aring.alt">
+          -79 callsubr
+          5 29 callsubr
+          hstemhm
+          34 118 -19 29 callgsubr
+          -34 129 hintmask 1010111011000000
+          395 715 -88 callgsubr
+          -58 -243 rmoveto
+          hintmask 1011011100100000
+          -93 callsubr
+          hintmask 0111011100100000
+          -91 callgsubr
+          hintmask 1010111100100000
+          -93 callgsubr
+          endchar
+        </CharString>
+        <CharString name="asciicircum">
+          41 410 -21 330 -20 hstem
+          539 30 callsubr
+          -178 330 rlineto
+          -120 hlineto
+          -178 -330 rlineto
+          136 hlineto
+          89 188 25 1 90 -189 rlineto
+          endchar
+        </CharString>
+        <CharString name="asciitilde">
+          45 195 126 -68 126 hstemhm
+          hintmask 10000000
+          486 363 rmoveto
+          -37 -37 -23 -5 -27 hhcurveto
+          -29 -23 9 15 -29 hvcurveto
+          hintmask 01000000
+          23 -43 -33 11 -25 callgsubr
+          hintmask 10000000
+          -23 43 33 -11 26 callgsubr
+          endchar
+        </CharString>
+        <CharString name="asterisk">
+          -67 354 -21 387 -20 hstem
+          440 461 rmoveto
+          -127 65 110 92 -66 64 -85 -84 -30 122 -90 -26 40 -118 -118 25 -21 -89 141 -20 -70 -123 86 -36 54 115 13 4 113 -67 rlineto
+          endchar
+        </CharString>
+        <CharString name="at">
+          305 -169 59 116 57 -22 106 277 99 135 60 hstemhm
+          28 60 121 107 190 101 -85 85 172 59 hintmask 1101111101000000
+          838 348 rmoveto
+          281 -142 89 -267 -249 -152 -101 -331 -238 99 -217 330 vhcurveto
+          7 59 rlineto
+          -265 -111 173 223 275 119 97 222 245 105 -85 -226 -178 -28 -106 -70 -66 -8 55 88 hvcurveto
+          323 vlineto
+          -72 -6 rlineto
+          -100 hlineto
+          -161 -65 -47 -199 hvcurveto
+          hintmask 1011111011000000
+          -158 71 -78 111 61 41 30 95 31 vhcurveto
+          -1 -11 -1 -13 -14 vvcurveto
+          hintmask 1101111101000000
+          -41 27 -81 132 118 39 145 197 vhcurveto
+          -332 76 rmoveto
+          -120 vlineto
+          hintmask 1011111101000000
+          -87 -49 -70 -41 -64 -36 27 95 116 25 39 94 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="atilde">
+          -68 callsubr
+          48 86 -45 87 -31 callgsubr
+          hintmask 10110110
+          395 724 -87 callsubr
+          hintmask 10101110
+          -100 callsubr
+          hintmask 01110110
+          -84 callgsubr
+          25 -674 -52 callgsubr
+          hintmask 10110110
+          -75 callgsubr
+          hintmask 01110110
+          -54 callsubr
+          hintmask 10110110
+          -88 callsubr
+        </CharString>
+        <CharString name="atilde.alt">
+          -79 callsubr
+          36 86 -45 87 -32 callsubr
+          hintmask 1010110110000000
+          264 472 rmoveto
+          -93 callsubr
+          hintmask 0111010110000000
+          -91 callgsubr
+          hintmask 1010110110000000
+          -93 callgsubr
+          34 481 -87 callsubr
+          hintmask 1011001110000000
+          -100 callsubr
+          hintmask 1011010110000000
+          -80 callsubr
+        </CharString>
+        <CharString name="b">
+          -1 -1 112 -111 -20 465 127 180 -20 hstemhm
+          52 130 205 130 hintmask 10111100
+          317 -1 rmoveto
+          171 29 160 127 179 -22 107 -158 hvcurveto
+          -155 -72 rlineto
+          252 -130 -603 vlineto
+          hintmask 01111100
+          -74 45 -75 107 vhcurveto
+          hintmask 10111100
+          11 111 rmoveto
+          -23 4 -10 15 27 vvcurveto
+          225 vlineto
+          117 63 rlineto
+          78 10 -50 -109 -109 -30 -66 -78 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="backslash">
+          -158 -53 -21 847 -20 hstem
+          403 -74 rmoveto
+          -281 847 rlineto
+          -122 hlineto
+          281 -847 rlineto
+          endchar
+        </CharString>
+        <CharString name="bar">
+          -211 3 callsubr
+          -74 rmoveto
+          860 -130 -860 vlineto
+          endchar
+        </CharString>
+        <CharString name="braceleft">
+          4 callgsubr
+          91 227 -160 130 -100 130 cntrmask 11100000
+          hintmask 11101000
+          414 -74 rmoveto
+          117 vlineto
+          -114 -12 24 54 hvcurveto
+          hintmask 11110000
+          30 115 rlineto
+          72 -43 38 -26 10 vhcurveto
+          26 10 43 38 72 vvcurveto
+          hintmask 11101000
+          -30 115 rlineto
+          61 18 17 108 vhcurveto
+          117 -102 vlineto
+          -52 -36 -13 -24 -24 hvcurveto
+          -29 -29 -13 -37 -45 vvcurveto
+          hintmask 11100100
+          30 -145 rlineto
+          -36 -16 -43 -39 vhcurveto
+          hintmask 11110000
+          -28 -14 -30 -29 -29 14 -28 28 hvcurveto
+          hintmask 11100100
+          42 -3 13 -42 -34 vvcurveto
+          hintmask 11101000
+          -30 -145 rlineto
+          -45 13 -37 29 -29 vhcurveto
+          -24 24 36 -13 52 hhcurveto
+          endchar
+        </CharString>
+        <CharString name="braceright">
+          4 callgsubr
+          169 -38 callgsubr
+          227 -197 130 cntrmask 11100000
+          hintmask 11100100
+          175 -74 rmoveto
+          52 36 13 24 24 hvcurveto
+          29 29 13 37 45 vvcurveto
+          hintmask 11110000
+          -30 145 rlineto
+          34 13 42 42 3 vhcurveto
+          hintmask 11101000
+          28 14 28 29 29 -14 30 -28 hvcurveto
+          hintmask 11110000
+          -39 -16 43 36 hvcurveto
+          hintmask 11100100
+          30 145 rlineto
+          45 -13 37 -29 29 vhcurveto
+          24 -24 -36 13 -52 hhcurveto
+          -102 -117 hlineto
+          108 18 -17 -61 hvcurveto
+          hintmask 11110000
+          -30 -115 rlineto
+          -72 43 -38 26 -10 vhcurveto
+          -26 -10 -43 -38 -72 vvcurveto
+          hintmask 11100100
+          30 -115 rlineto
+          -54 -12 -24 -114 vhcurveto
+          -117 vlineto
+          endchar
+        </CharString>
+        <CharString name="bracketleft">
+          -183 -74 117 626 117 hstem
+          80 -43 callgsubr
+          337 -74 rmoveto
+          117 -127 626 127 117 -257 -860 vlineto
+          endchar
+        </CharString>
+        <CharString name="bracketright">
+          -183 -74 116 628 116 hstem
+          169 -43 callgsubr
+          299 -74 rmoveto
+          860 -257 -116 127 -628 -127 -116 vlineto
+          endchar
+        </CharString>
+        <CharString name="breve">
+          -61 628 91 -91 151 hstemhm
+          hintmask 01000000
+          327 779 rmoveto
+          hintmask 10000000
+          -43 -5 -33 -17 -38 hhcurveto
+          hintmask 01000000
+          -38 -34 17 43 -5 hvcurveto
+          -88 hlineto
+          -108 5 74 -43 86 hhcurveto
+          86 72 43 108 5 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="brokenbar">
+          -208 3 callsubr
+          436 25 callgsubr
+          130 -510 25 callgsubr
+          endchar
+        </CharString>
+        <CharString name="bullet">
+          -68 192 -21 326 -20 hstem
+          409 334 rmoveto
+          110 -43 53 -120 -120 -43 -53 -110 -110 43 -53 120 120 43 53 110 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="c">
+          -42 -14 2 callgsubr
+          223 166 12 callgsubr
+          202 118 hintmask 01101100
+          365 209 rmoveto
+          hintmask 10011100
+          15 callsubr
+          -91 -9 77 82 hvcurveto
+          -18 callsubr
+          88 vhcurveto
+          hintmask 10101100
+          -47 callsubr
+          -34 32 62 -30 77 hhcurveto
+          77 73 30 34 32 hvcurveto
+          22 callsubr
+        </CharString>
+        <CharString name="caron">
+          -61 624 -21 169 -20 hstem
+          250 668 -102 callsubr
+          endchar
+        </CharString>
+        <CharString name="ccedilla">
+          -79 -180 52 503 12 callgsubr
+          106 66 30 118 hintmask 10111100
+          365 209 rmoveto
+          15 callsubr
+          -101 1 19 callsubr
+          vhcurveto
+          hintmask 11011100
+          -47 callsubr
+          27 -29 50 -26 62 -7 -20 -51 rcurveline
+          -50 callgsubr
+          21 65 7 57 26 28 29 rlinecurve
+          22 callsubr
+        </CharString>
+        <CharString name="cedilla">
+          -61 -171 52 -52 192 hstemhm
+          267 66 hintmask 01100000
+          303 21 rmoveto
+          -64 hlineto
+          -30 -75 rlineto
+          38 20 -14 -20 hvcurveto
+          hintmask 10100000
+          -8 callgsubr
+          vhcurveto
+          -53 callsubr
+          endchar
+        </CharString>
+        <CharString name="cent">
+          -62 -110 213 359 205 hstem
+          31 130 57 102 43 120 vstem
+          218 -110 rmoveto
+          102 102 hlineto
+          144 29 9 60 10 129 -118 -1 rcurveline
+          15 callsubr
+          -98 -2 19 callsubr
+          82 20 -32 -55 vhcurveto
+          118 hlineto
+          108 -54 72 -107 19 vhcurveto
+          93 -102 -91 vlineto
+          -160 -30 -27 -116 -142 vvcurveto
+          -151 27 -122 160 -26 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="circumflex">
+          -61 625 -21 169 -20 hstem
+          250 708 -105 callsubr
+        </CharString>
+        <CharString name="colon">
+          -242 -13 163 115 163 hstem
+          91 163 vstem
+          254 -15 callgsubr
+          -2 278 rmoveto
+          -51 callgsubr
+        </CharString>
+        <CharString name="comma">
+          -282 -144 -21 307 -20 hstem
+          68 143 vstem
+          211 -4 callgsubr
+          endchar
+        </CharString>
+        <CharString name="commaaccent">
+          -329 105 -21 267 -20 hstem
+          45 133 vstem
+          178 351 -46 callsubr
+          endchar
+        </CharString>
+        <CharString name="copyright">
+          283 -6 40 113 88 -88 174 91 153 -88 88 113 40 hstemhm
+          60 50 158 97 126 90 163 40 hintmask 1011011111000000
+          491 321 rmoveto
+          hintmask 1100111111000000
+          -52 -4 -10 -34 -48 hhcurveto
+          -61 -3 51 48 hvcurveto
+          34 vlineto
+          55 2 54 62 vhcurveto
+          hintmask 1011011111000000
+          39 15 -25 -40 7 hvcurveto
+          90 hlineto
+          102 -66 51 -85 -127 -34 -87 -112 vhcurveto
+          -33 vlineto
+          -99 34 -87 127 95 57 61 113 vhcurveto
+          203 35 -74 callsubr
+          endchar
+        </CharString>
+        <CharString name="currency">
+          108 31 -21 41 118 234 118 41 -20 hstem
+          99 118 235 117 vstem
+          610 96 rmoveto
+          -73 73 rlineto
+          20 34 12 40 43 vvcurveto
+          43 -12 40 -20 34 vhcurveto
+          73 73 -85 86 -74 -73 rlineto
+          20 -34 -40 12 -43 hhcurveto
+          -43 -39 -12 -20 -34 hvcurveto
+          -74 73 -86 -86 74 -73 rlineto
+          -20 -34 -13 -40 -43 vvcurveto
+          -43 13 -40 20 -34 vhcurveto
+          -74 -73 86 -86 74 73 rlineto
+          -20 34 39 -12 43 hhcurveto
+          43 40 12 20 34 hvcurveto
+          74 -73 rlineto
+          -73 276 rmoveto
+          -65 -53 -52 -65 -65 -52 52 65 65 52 52 65 65 53 -52 -65 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="d">
+          0 -71 callsubr
+          185 -20 hstemhm
+          31 -29 callgsubr
+          hintmask 01111100
+          488 hmoveto
+          752 -130 -185 -137 vlineto
+          -94 callsubr
+        </CharString>
+        <CharString name="dagger">
+          18 21 -21 410 9 callgsubr
+          512 410 rmoveto
+          117 -135 vlineto
+          -33 -10 10 33 rlineto
+          162 -130 -160 vlineto
+          10 -35 -41 10 rlineto
+          -126 -117 130 hlineto
+          37 10 -10 -40 rlineto
+          -380 130 380 vlineto
+          -10 40 33 -10 rlineto
+          endchar
+        </CharString>
+        <CharString name="daggerdbl">
+          18 -170 -21 185 117 299 9 callgsubr
+          522 -6 rmoveto
+          117 -168 299 168 117 -168 185 -130 -185 -167 -117 167 -299 -167 -117 167 -185 130 185 vlineto
+          endchar
+        </CharString>
+        <CharString name="degree">
+          -83 358 104 160 105 hstem
+          55 105 158 105 vstem
+          423 542 rmoveto
+          142 -62 43 -122 -122 -62 -43 -142 -142 62 -42 122 122 62 42 142 vhcurveto
+          -105 hmoveto
+          -65 -25 -15 -54 -54 -25 15 65 65 24 15 54 54 26 -15 -65 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="dieresis">
+          -61 627 134 hstem
+          70 -44 callsubr
+          vstem
+          430 -59 callsubr
+          endchar
+        </CharString>
+        <CharString name="divide">
+          -18 0 163 62 121 69 163 hstem
+          191 163 vstem
+          497 10 callsubr
+          -451 -121 vlineto
+          308 272 -92 callsubr
+          -415 vmoveto
+          -51 callgsubr
+        </CharString>
+        <CharString name="dollar">
+          -66 -109 227 479 189 hstemhm
+          30 118 -118 134 26 101 51 138 hintmask 11011100
+          190 -109 rmoveto
+          101 109 hlineto
+          91 19 98 74 117 vvcurveto
+          129 -89 61 -93 16 vhcurveto
+          -65 12 rlineto
+          -36 6 -33 26 47 vvcurveto
+          49 37 41 41 55 34 -17 -70 11 vhcurveto
+          125 6 rlineto
+          105 -69 76 -107 17 vhcurveto
+          72 -101 -74 vlineto
+          -99 -21 -61 -80 -109 vvcurveto
+          -123 63 -60 88 -16 vhcurveto
+          93 -12 rlineto
+          41 -8 27 -27 -50 vvcurveto
+          -57 -52 -31 -48 vhcurveto
+          hintmask 11101100
+          -70 -24 8 callgsubr
+          -145 80 -65 88 -17 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="dotaccent">
+          -52 callsubr
+        </CharString>
+        <CharString name="dotaccentcmb">
+          -52 callsubr
+        </CharString>
+        <CharString name="dotlessi">
+          -10 callsubr
+          -60 callsubr
+          endchar
+        </CharString>
+        <CharString name="e">
+          -13 -13 118 -118 207 61 89 126 108 hstemhm
+          39 129 217 118 hintmask 01111100
+          -87 callgsubr
+          -68 176 122 90 58 149 vhcurveto
+          -117 hlineto
+          hintmask 10111100
+          -26 -21 -63 -73 -105 -18 55 95 vhcurveto
+          3 89 rmoveto
+          92 49 34 62 69 34 -36 -90 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="eacute">
+          -85 callgsubr
+          43 438 -103 callsubr
+        </CharString>
+        <CharString name="ecircumflex">
+          -51 callsubr
+          205 -20 -95 callgsubr
+          -108 374 -105 callsubr
+        </CharString>
+        <CharString name="edieresis">
+          -51 callsubr
+          49 17 callgsubr
+          39 132 -74 -44 callsubr
+          -72 72 -72 118 hintmask 0111110001000000
+          -91 callsubr
+          hintmask 1011110010000000
+          -77 callsubr
+          72 350 rmoveto
+          57 -30 10 -37 vhcurveto
+          hintmask 1011101100000000
+          -103 callgsubr
+          hvcurveto
+          -22 callgsubr
+        </CharString>
+        <CharString name="egrave">
+          -85 callgsubr
+          -182 332 -100 callgsubr
+          endchar
+        </CharString>
+        <CharString name="eight">
+          -1 -6 123 482 119 hstemhm
+          62 120 -120 133 189 124 hintmask 11011000
+          52 197 rmoveto
+          -135 82 -68 146 146 82 46 157 75 -37 41 -34 23 vhcurveto
+          39 46 32 69 71 vvcurveto
+          137 -89 59 -139 -139 -79 -57 -139 -72 25 -46 28 -27 vhcurveto
+          -29 -44 -34 -77 -59 vvcurveto
+          143 313 rmoveto
+          64 37 25 51 71 30 -41 -52 -38 -13 -47 -30 -38 vhcurveto
+          -107 50 -39 32 45 vvcurveto
+          85 -393 rmoveto
+          hintmask 11101000
+          -65 -33 32 44 59 19 47 17 26 hvcurveto
+          116 -48 44 -47 -35 vvcurveto
+          -51 -23 -27 -75 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="ellipsis">
+          324 -13 163 hstem
+          63 163 97 163 95 163 vstem
+          226 -15 callgsubr
+          260 hmoveto
+          -98 callgsubr
+          258 hmoveto
+          -51 callgsubr
+        </CharString>
+        <CharString name="emdash">
+          466 226 125 hstem
+          968 226 rmoveto
+          125 -909 -125 vlineto
+          endchar
+        </CharString>
+        <CharString name="endash">
+          -20 callgsubr
+        </CharString>
+        <CharString name="equal">
+          -18 116 122 95 122 hstem
+          493 333 -31 callsubr
+          443 -217 -31 callsubr
+          endchar
+        </CharString>
+        <CharString name="estimated">
+          446 -21 21 -21 144 218 20 341 21 hstemhm
+          90 151 524 152 hintmask 01111100
+          917 341 rmoveto
+          10 vlineto
+          205 -186 167 -228 -229 -184 -167 -205 -206 184 -166 229 133 120 57 87 75 vhcurveto
+          -61 hlineto
+          hintmask 10111100
+          -74 -65 -95 -49 -106 hhcurveto
+          -99 -89 44 67 -65 hvcurveto
+          -7 5 -3 8 10 vvcurveto
+          202 vlineto
+          4 2 1 4 vhcurveto
+          518 26 rmoveto
+          -3 -1 -3 -4 vhcurveto
+          -513 hlineto
+          -4 -2 3 3 hvcurveto
+          200 vlineto
+          11 3 7 8 7 vhcurveto
+          66 65 89 44 98 hhcurveto
+          98 89 -43 -63 64 hvcurveto
+          6 -7 4 -8 -9 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="eth">
+          -12 -6 127 309 117 205 -20 hstem
+          31 -43 callgsubr
+          358 3 callgsubr
+          105 85 20 74 78 hvcurveto
+          99 hlineto
+          -109 152 rmoveto
+          92 31 8 -21 6 -23 3 -22 rlinecurve
+          -66 callgsubr
+          -182 -8 -156 -120 -163 31 -114 197 20 callgsubr
+          92 -16 73 -21 55 vhcurveto
+          49 17 rlineto
+          76 vlineto
+          -81 -27 -23 36 rlineto
+          -130 hlineto
+          16 -24 16 -24 14 -25 -63 -21 rcurveline
+          endchar
+        </CharString>
+        <CharString name="exclam">
+          -214 -13 163 562 -20 hstemhm
+          112 163 -149 132 hintmask 11010000
+          273 -5 callgsubr
+          hintmask 11100000
+          -161 hlineto
+          29 -432 rlineto
+          -39 25 -20 23 23 25 20 39 6 vhcurveto
+          32 -211 rmoveto
+          -51 callgsubr
+        </CharString>
+        <CharString name="exclamdown">
+          -214 -149 -21 561 163 hstemhm
+          100 163 -146 132 -117 131 hintmask 11010000
+          234 262 rmoveto
+          39 -6 -25 20 -23 hhcurveto
+          hintmask 11001000
+          -23 -25 -20 -39 hvcurveto
+          -29 -432 rlineto
+          161 hlineto
+          -1 643 rmoveto
+          67 -14 14 -67 vhcurveto
+          hintmask 11100000
+          -92 callgsubr
+          hvcurveto
+          endchar
+        </CharString>
+        <CharString name="f">
+          -219 -9 callsubr
+          hintmask 11101000
+          315 450 rmoveto
+          99 vlineto
+          hintmask 11110000
+          -106 -10 callgsubr
+          hintmask 11101000
+          -76 callgsubr
+          hintmask 11110000
+          -17 callgsubr
+          hlineto
+          endchar
+        </CharString>
+        <CharString name="ff">
+          114 -9 callsubr
+          86 -41 callsubr
+          hintmask 11110010
+          637 450 rmoveto
+          99 vlineto
+          hintmask 11110100
+          -106 -10 callgsubr
+          hintmask 11110010
+          -67 callgsubr
+          -192 -37 callgsubr
+          hintmask 11101100
+          -76 callgsubr
+          hintmask 11110100
+          -17 callgsubr
+          192 -2 callsubr
+          hlineto
+          endchar
+        </CharString>
+        <CharString name="ffi">
+          350 21 -21 450 -41 callgsubr
+          83 -41 callsubr
+          84 -38 callgsubr
+          142 hintmask 1101101001000000
+          860 -56 callgsubr
+          hintmask 1110101010000000
+          -12 -712 rmoveto
+          549 -320 -37 callgsubr
+          hintmask 1110100110000000
+          -67 callgsubr
+          -189 -37 callgsubr
+          hintmask 1110011010000000
+          -76 callgsubr
+          hintmask 1110101010000000
+          -17 callgsubr
+          189 -2 callsubr
+          190 -450 hlineto
+          endchar
+        </CharString>
+        <CharString name="ffl">
+          345 0 -20 40 -21 451 99 94 109 1 -20 -45 callgsubr
+          82 130 190 130 hintmask 1011010110000000
+          847 5 callgsubr
+          -188 -37 callgsubr
+          hintmask 1011001110000000
+          61 hlineto
+          hintmask 1010101110000000
+          110 -84 vlineto
+          -106 -46 -75 11 callgsubr
+          -54 -99 54 -450 vlineto
+          hintmask 1011010110000000
+          -17 callgsubr
+          188 -2 callsubr
+          106 99 -106 -10 callgsubr
+          145 hlineto
+          hintmask 0111010110000000
+          -644 vlineto
+          endchar
+        </CharString>
+        <CharString name="fi">
+          41 21 -21 450 -25 callsubr
+          hintmask 11101010
+          529 hmoveto
+          549 -320 -37 callgsubr
+          hintmask 11100110
+          -76 callgsubr
+          hintmask 11101010
+          -17 callgsubr
+          190 -450 hlineto
+          hintmask 11011001
+          142 -56 callgsubr
+          endchar
+        </CharString>
+        <CharString name="five">
+          -10 7 callsubr
+          176 105 112 111 hstemhm
+          36 127 -86 128 139 130 hintmask 10110110
+          77 700 rmoveto
+          -328 77 vlineto
+          174 16 -78 -75 -58 -27 -48 -75 hvcurveto
+          hintmask 01111010
+          -48 callgsubr
+          152 vhcurveto
+          hintmask 10110110
+          160 -52 96 -217 vhcurveto
+          112 249 111 vlineto
+          endchar
+        </CharString>
+        <CharString name="fj">
+          137 16 callgsubr
+          60 -20 470 -25 callsubr
+          hintmask 1110110010000000
+          541 -56 callgsubr
+          hintmask 1111010100000000
+          -12 -163 rmoveto
+          -320 -10 callgsubr
+          hintmask 1111001100000000
+          -76 callgsubr
+          hintmask 1111010100000000
+          -17 callgsubr
+          190 -463 hlineto
+          -31 -13 -16 -33 vhcurveto
+          -33 callsubr
+          endchar
+        </CharString>
+        <CharString name="fl">
+          37 28 callgsubr
+          94 109 hstem
+          79 130 190 -43 callgsubr
+          529 5 callgsubr
+          -54 -99 54 -2 callsubr
+          106 99 -106 -37 callgsubr
+          145 -643 hlineto
+          endchar
+        </CharString>
+        <CharString name="florin">
+          -185 -148 -21 586 99 127 110 hstem
+          335 417 rmoveto
+          15 99 rlineto
+          -106 hlineto
+          13 80 rlineto
+          30 5 14 17 31 hhcurveto
+          61 hlineto
+          18 110 rlineto
+          -84 hlineto
+          -106 -56 -75 -74 -12 hvcurveto
+          -14 -88 rlineto
+          -90 hlineto
+          -15 -99 rlineto
+          90 hlineto
+          -95 -586 rlineto
+          129 hlineto
+          96 586 rlineto
+          endchar
+        </CharString>
+        <CharString name="foundryicon">
+          680 44 -21 250 52 196 48 hstem
+          380 52 473 52 194 50 vstem
+          186 157 rmoveto
+          40 31 -87 85 rlineto
+          262 hlineto
+          -152 57 156 -98 53 hhcurveto
+          48 161 98 152 59 hvcurveto
+          216 -116 50 284 -50 -116 -201 hlineto
+          4 20 3 20 22 vvcurveto
+          108 -57 74 -96 -68 -38 -24 -44 -30 vhcurveto
+          43 -31 -32 25 -70 hhcurveto
+          -93 -62 -73 -109 -22 2 -20 4 -20 hvcurveto
+          -248 hlineto
+          88 84 -40 32 -146 -141 rlineto
+          628 -227 rmoveto
+          -57 8 -109 83 -47 109 rrcurveto
+          180 52 -198 hlineto
+          -3 16 -2 17 18 vvcurveto
+          89 41 56 73 63 35 -40 -44 16 vhcurveto
+          16 hlineto
+          43 16 34 41 64 hhcurveto
+          75 40 -57 -86 -157 -169 -138 -68 -10 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="four">
+          29 21 -21 153 123 436 -20 hstem
+          346 124 vstem
+          550 153 rmoveto
+          123 -80 436 -124 -436 -167 vlineto
+          109 291 rlineto
+          -139 hlineto
+          -100 -272 -12 -33 -28 vvcurveto
+          -48 31 -33 71 vhcurveto
+          207 -153 124 153 hlineto
+          endchar
+        </CharString>
+        <CharString name="fraction">
+          -353 -1 callgsubr
+          323 -5 callgsubr
+          -101 -1 callsubr
+          101 hlineto
+          endchar
+        </CharString>
+        <CharString name="g">
+          -6 16 callgsubr
+          104 137 269 117 8 -20 hstemhm
+          26 130 -97 121 173 130 hintmask 11101010
+          353 567 rmoveto
+          -66 callgsubr
+          -182 -8 -136 -140 -123 31 -124 160 hvcurveto
+          140 75 -5 -86 rlineto
+          -54 -14 -39 -69 vhcurveto
+          hintmask 11010110
+          -66 -23 16 36 hvcurveto
+          -121 -6 rlineto
+          -123 114 -33 98 142 70 71 125 vhcurveto
+          549 vlineto
+          hintmask 11101010
+          -130 -343 rmoveto
+          -99 -51 rlineto
+          -78 -20 45 65 105 20 54 78 hvcurveto
+          99 hlineto
+          endchar
+        </CharString>
+        <CharString name="germandbls">
+          39 0 100 -89 -21 353 102 160 113 28 callsubr
+          94 188 -130 130 -70 131 hintmask 10111001
+          546 217 rmoveto
+          121 -85 49 -37 19 vhcurveto
+          hintmask 10111010
+          31 19 30 47 61 vvcurveto
+          121 -61 64 -139 -126 -86 -58 -149 vhcurveto
+          -511 130 501 vlineto
+          59 13 45 69 45 25 -29 -47 -42 -28 -42 -32 vhcurveto
+          -102 vlineto
+          hintmask 10111001
+          58 62 -40 -86 -77 -39 -40 -53 hvcurveto
+          hintmask 10111100
+          -26 hlineto
+          hintmask 01111100
+          -110 52 vlineto
+          hintmask 10111001
+          134 63 77 150 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="grave">
+          -61 10 callgsubr
+          176 -29 callsubr
+          endchar
+        </CharString>
+        <CharString name="greater">
+          -67 61 -21 483 -20 hstem
+          56 40 rmoveto
+          385 189 rlineto
+          106 vlineto
+          -385 188 rlineto
+          -130 vlineto
+          252 -112 -252 -111 rlineto
+          endchar
+        </CharString>
+        <CharString name="greaterequal">
+          -11 0 122 498 -20 hstem
+          98 157 rmoveto
+          385 179 rlineto
+          106 vlineto
+          -385 178 rlineto
+          -130 vlineto
+          252 -102 -252 -101 rlineto
+          395 -287 -31 callsubr
+          endchar
+        </CharString>
+        <CharString name="guillemotleft">
+          67 0 callgsubr
+          283 27 -72 callgsubr
+          475 -173 -72 callgsubr
+          endchar
+        </CharString>
+        <CharString name="guillemotright">
+          67 0 callgsubr
+          347 523 -73 callsubr
+          -475 173 -73 callsubr
+          endchar
+        </CharString>
+        <CharString name="guilsinglleft">
+          -211 0 callgsubr
+          303 27 -72 callgsubr
+          endchar
+        </CharString>
+        <CharString name="guilsinglright">
+          -211 0 callgsubr
+          67 523 -73 callsubr
+          endchar
+        </CharString>
+        <CharString name="h">
+          8 21 -21 752 -20 hstem
+          58 -12 callsubr
+          514 hmoveto
+          -4 callsubr
+          249 -130 -752 -9 callgsubr
+          vlineto
+          endchar
+        </CharString>
+        <CharString name="hbar">
+          26 21 -21 594 87 71 -20 hstem
+          76 -12 callsubr
+          295 594 rmoveto
+          87 -89 71 -130 -71 -77 -87 77 -594 -9 callgsubr
+          130 -4 callsubr
+          91 vlineto
+          endchar
+        </CharString>
+        <CharString name="hungarumlaut">
+          -61 10 callgsubr
+          260 -80 callgsubr
+          282 106 -103 callsubr
+        </CharString>
+        <CharString name="hyphen">
+          -135 225 121 hstem
+          367 10 callsubr
+          -308 -121 vlineto
+          endchar
+        </CharString>
+        <CharString name="i">
+          21 -21 638 151 hstem
+          73 -43 callgsubr
+          214 714 rmoveto
+          -85 callsubr
+          -11 -714 rmoveto
+          550 -130 -550 vlineto
+          endchar
+        </CharString>
+        <CharString name="iacute">
+          -27 callsubr
+          192 -80 callgsubr
+          endchar
+        </CharString>
+        <CharString name="icircumflex">
+          -10 callsubr
+          282 -20 -60 callsubr
+          67 -86 callsubr
+          endchar
+        </CharString>
+        <CharString name="idieresis">
+          -10 callsubr
+          126 17 callgsubr
+          -43 134 -18 130 -20 134 hintmask 11101000
+          -48 callsubr
+          hintmask 11110100
+          244 -59 callsubr
+          endchar
+        </CharString>
+        <CharString name="igrave">
+          -27 callsubr
+          18 -29 callsubr
+          endchar
+        </CharString>
+        <CharString name="ij">
+          -11 16 callgsubr
+          60 -20 658 151 28 callsubr
+          145 130 vstemhm
+          478 550 -20 callsubr
+          hintmask 11111000
+          -43 callsubr
+          -275 hmoveto
+          -85 callsubr
+          -11 -714 rmoveto
+          550 -130 -550 vlineto
+          endchar
+        </CharString>
+        <CharString name="infinity">
+          168 146 98 131 99 hstem
+          45 96 442 105 vstem
+          688 309 rmoveto
+          91 -47 74 -108 -61 -62 -32 -50 -44 vhcurveto
+          50 -44 -61 32 -61 hhcurveto
+          -108 -47 -74 -91 -91 47 -72 108 61 61 31 50 44 hvcurveto
+          -50 44 62 -31 61 hhcurveto
+          108 47 72 91 hvcurveto
+          -105 hmoveto
+          -41 -21 -24 -35 -36 -36 29 36 -30 vhcurveto
+          37 30 36 29 36 hhcurveto
+          35 21 -25 -41 hvcurveto
+          -285 hmoveto
+          -36 -30 -36 -29 -36 hhcurveto
+          -35 -20 24 41 41 20 26 35 36 36 -30 -37 30 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="integral">
+          -81 -186 110 691 110 hstem
+          177 136 vstem
+          433 615 rmoveto
+          110 -85 vlineto
+          -114 -57 -55 -117 hvcurveto
+          -569 vlineto
+          -48 -26 -12 -45 vhcurveto
+          -49 -110 85 hlineto
+          114 57 54 117 hvcurveto
+          569 vlineto
+          48 26 13 45 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="itilde">
+          -10 callsubr
+          114 86 -45 87 28 callsubr
+          hintmask 11101000
+          272 724 -70 callsubr
+          -115 -674 rmoveto
+          21 callgsubr
+        </CharString>
+        <CharString name="j">
+          16 callgsubr
+          698 151 28 callsubr
+          vstemhm
+          203 550 -20 callsubr
+          hintmask 11100000
+          -43 callsubr
+          endchar
+        </CharString>
+        <CharString name="jcircumflex">
+          16 callgsubr
+          843 -20 28 callsubr
+          vstemhm
+          138 -86 callsubr
+          110 -112 -20 callsubr
+          hintmask 11100000
+          -33 callsubr
+          endchar
+        </CharString>
+        <CharString name="k">
+          -2 21 -21 752 18 callsubr
+          -55 callgsubr
+        </CharString>
+        <CharString name="kcommaaccent">
+          -2 -306 -21 327 -20 772 -20 hstem
+          71 130 22 133 vstem
+          356 -60 -46 callsubr
+          208 145 rmoveto
+          -55 callgsubr
+        </CharString>
+        <CharString name="kgreenlandic">
+          -2 21 -21 526 -20 65 18 callsubr
+          -220 301 28 57 104 113 83 55 rlinecurve
+          -167 hlineto
+          -75 -68 -84 -98 -32 -83 rrcurveto
+          294 -130 -571 130 82 vlineto
+          17 36 18 47 29 30 143 -195 rcurveline
+          endchar
+        </CharString>
+        <CharString name="l">
+          -296 20 -21 753 -20 hstem
+          68 -43 callgsubr
+          198 hmoveto
+          21 callsubr
+        </CharString>
+        <CharString name="ldot">
+          -99 20 -21 323 163 267 -20 hstem
+          68 130 65 163 vstem
+          426 404 -92 callsubr
+          -228 -404 rmoveto
+          21 callsubr
+        </CharString>
+        <CharString name="less">
+          -54 61 -21 483 -20 hstem
+          441 170 rmoveto
+          -252 111 252 112 rlineto
+          130 vlineto
+          -385 -188 rlineto
+          -106 vlineto
+          385 -189 rlineto
+          endchar
+        </CharString>
+        <CharString name="lessequal">
+          -17 0 122 498 -20 hstem
+          445 287 rmoveto
+          -252 101 252 102 rlineto
+          130 vlineto
+          -385 -178 rlineto
+          -106 vlineto
+          385 -179 rlineto
+          48 -157 -31 callsubr
+          endchar
+        </CharString>
+        <CharString name="litre">
+          -77 -16 126 497 127 hstem
+          309 122 vstem
+          399 123 rmoveto
+          -10 -25 -46 -3 -45 hhcurveto
+          -39 -27 30 41 -2 hvcurveto
+          155 126 61 117 138 vvcurveto
+          106 -77 66 -76 -179 -32 -219 -112 -59 2 -71 10 -37 vhcurveto
+          -10 -13 -25 -16 -17 -10 39 -107 rcurveline
+          18 10 9 7 16 11 rrcurveto
+          -77 18 61 -57 73 hhcurveto
+          64 65 16 11 31 hvcurveto
+          -226 288 rmoveto
+          136 -18 22 172 59 hhcurveto
+          33 18 -24 -54 -61 -49 -89 -65 -80 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="logicalnot">
+          -18 111 -21 155 115 hstem
+          376 121 vstem
+          497 90 rmoveto
+          270 -441 -115 320 -155 vlineto
+          endchar
+        </CharString>
+        <CharString name="lozenge">
+          73 1 -21 740 -20 hstem
+          581 351 rmoveto
+          -192 327 rlineto
+          28 -22 -24 14 -24 hhcurveto
+          -24 -24 -14 -28 -23 hvcurveto
+          -193 -327 201 -330 rlineto
+          -28 20 20 -13 21 hhcurveto
+          21 21 13 28 22 hvcurveto
+          54 330 rmoveto
+          -117 -215 -117 215 117 224 rlineto
+          endchar
+        </CharString>
+        <CharString name="lslash">
+          -253 20 -21 753 -20 hstemhm
+          30 184 -130 -38 callgsubr
+          190 hintmask 11100000
+          214 hmoveto
+          400 vlineto
+          hintmask 11001000
+          60 38 rlineto
+          109 vlineto
+          hintmask 11100000
+          -60 -37 rlineto
+          242 vlineto
+          hintmask 11010000
+          -130 -320 hlineto
+          hintmask 11100000
+          -54 -34 rlineto
+          -109 vlineto
+          54 33 rlineto
+          -323 vlineto
+          endchar
+        </CharString>
+        <CharString name="m">
+          315 8 callsubr
+          127 hstem
+          73 130 173 130 173 130 cntrmask 00111000
+          809 hmoveto
+          383 vlineto
+          113 -46 81 -109 vhcurveto
+          -186 -76 rlineto
+          42 -22 -38 34 -58 hhcurveto
+          -150 -46 callgsubr
+          107 49 rlineto
+          41 25 -24 -71 hvcurveto
+          -355 130 401 vlineto
+          117 49 rlineto
+          41 15 -24 -71 hvcurveto
+          -355 vlineto
+          endchar
+        </CharString>
+        <CharString name="macron">
+          -61 630 87 hstem
+          408 630 rmoveto
+          87 -316 -87 vlineto
+          endchar
+        </CharString>
+        <CharString name="minus">
+          -20 callgsubr
+        </CharString>
+        <CharString name="mu">
+          -6 -119 -21 134 -20 26 -20 591 -20 -32 callgsubr
+          hintmask 11011100
+          48 -140 rmoveto
+          41 hlineto
+          43 45 56 45 hvcurveto
+          36 vlineto
+          -2 11 12 -1 13 hhcurveto
+          160 74 rlineto
+          hintmask 10111100
+          30 -68 rlineto
+          97 571 -130 -387 hlineto
+          -117 -63 rlineto
+          -40 -35 23 67 -1 hvcurveto
+          360 -130 -383 vlineto
+          -10 0 -10 1 -9 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="multiply">
+          -18 84 -21 446 -20 hstem
+          494 145 rmoveto
+          -141 141 141 141 -82 82 -141 -141 -140 141 -82 -82 141 -141 -141 -141 82 -82 140 141 141 -141 rlineto
+          endchar
+        </CharString>
+        <CharString name="n">
+          12 21 -21 577 -20 hstem
+          63 -21 callgsubr
+          vstem
+          516 hmoveto
+          -82 callgsubr
+          endchar
+        </CharString>
+        <CharString name="nacute">
+          12 21 -21 10 callgsubr
+          63 -21 callgsubr
+          vstem
+          412 -80 callgsubr
+          178 -676 rmoveto
+          -82 callgsubr
+          endchar
+        </CharString>
+        <CharString name="nbspace">
+          -329 endchar
+        </CharString>
+        <CharString name="nine">
+          -12 7 callsubr
+          66 122 214 126 hstemhm
+          41 136 -107 127 181 130 hintmask 10111010
+          508 506 rmoveto
+          167 -82 51 -152 -152 -81 -54 -167 -152 70 -89 158 vhcurveto
+          109 62 rlineto
+          -105 vlineto
+          -58 -27 -48 -75 vhcurveto
+          hintmask 01110110
+          -48 callgsubr
+          152 vhcurveto
+          -230 377 rmoveto
+          79 25 -44 -107 hvcurveto
+          -107 -63 rlineto
+          hintmask 10111010
+          -78 -20 50 66 52 23 46 78 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="notequal">
+          41 8 -21 129 122 95 122 129 -20 hstem
+          552 116 rmoveto
+          122 -226 vlineto
+          78 95 rlineto
+          148 122 -55 hlineto
+          55 67 -79 62 -103 -129 rlineto
+          -320 -122 227 hlineto
+          -78 -95 rlineto
+          -149 -122 55 hlineto
+          -55 -67 79 -62 103 129 rlineto
+          endchar
+        </CharString>
+        <CharString name="ntilde">
+          12 21 -21 623 -7 callgsubr
+          63 -21 callgsubr
+          hintmask 11011000
+          516 hmoveto
+          -82 callgsubr
+          38 732 -87 callsubr
+          hintmask 10111000
+          -100 callsubr
+          hintmask 11011000
+          -80 callsubr
+        </CharString>
+        <CharString name="numbersign">
+          130 21 -21 179 121 130 121 167 -20 hstem
+          133 139 -122 139 -122 139 91 139 -122 139 -122 -15 callsubr
+          62 179 rmoveto
+          77 6 callsubr
+          125 6 callsubr
+          68 121 -61 hlineto
+          8 130 rlineto
+          77 121 -69 5 callsubr
+          -125 5 callsubr
+          -76 -121 68 hlineto
+          -8 -130 rlineto
+          -84 hlineto
+          231 130 rmoveto
+          125 hlineto
+          -8 -130 rlineto
+          -125 hlineto
+          endchar
+        </CharString>
+        <CharString name="o">
+          -45 callsubr
+          hstem
+          31 -11 callsubr
+          382 258 rmoveto
+          -68 -11 -87 -100 -91 -19 87 72 vhcurveto
+          52 vlineto
+          76 22 72 88 100 11 -70 -82 -97 callsubr
+          endchar
+        </CharString>
+        <CharString name="oacute">
+          -45 callsubr
+          49 23 callgsubr
+          33 -11 callsubr
+          384 -99 callgsubr
+          -91 494 -103 callsubr
+        </CharString>
+        <CharString name="ocircumflex">
+          -45 callsubr
+          204 -20 hstem
+          30 -11 callsubr
+          381 -99 callgsubr
+          -239 430 -105 callsubr
+        </CharString>
+        <CharString name="odieresis">
+          -45 callsubr
+          48 17 callgsubr
+          32 130 -70 -44 callsubr
+          -69 130 hintmask 11110010
+          383 -99 callgsubr
+          hintmask 11101100
+          -61 406 -104 callgsubr
+        </CharString>
+        <CharString name="oe">
+          320 -14 2 callgsubr
+          213 56 89 118 116 -103 103 1 17 callsubr
+          214 118 hintmask 1011001110000000
+          382 258 -30 callsubr
+          -101 -9 77 82 vhcurveto
+          -18 callsubr
+          98 110 1 -60 -92 vhcurveto
+          130 34 rmoveto
+          hintmask 1010101110000000
+          -63 callgsubr
+          116 -89 -81 callsubr
+          -80 -60 -19 -41 -41 vhcurveto
+          hintmask 0110011110000000
+          39 -37 -56 22 -82 hhcurveto
+          -81 callgsubr
+          83 56 21 37 36 hvcurveto
+          41 -42 61 -14 83 -1 rrcurveto
+          -64 callsubr
+          -54 callgsubr
+          endchar
+        </CharString>
+        <CharString name="ogonek">
+          -63 -196 -21 167 -20 hstem
+          169 97 vstem
+          326 -183 rmoveto
+          -50 39 -10 42 52 vvcurveto
+          -97 hlineto
+          -57 14 -73 48 -37 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="ograve">
+          -45 callsubr
+          49 23 callgsubr
+          32 -11 callsubr
+          383 -99 callgsubr
+          -319 388 -100 callgsubr
+          endchar
+        </CharString>
+        <CharString name="one">
+          -123 21 -21 713 -20 hstemhm
+          102 223 vstemhm
+          325 hmoveto
+          594 vlineto
+          91 -14 28 -91 vhcurveto
+          -118 -97 hlineto
+          hintmask 11100000
+          87 -32 rlineto
+          -584 vlineto
+          endchar
+        </CharString>
+        <CharString name="onehalf">
+          301 1 84 -64 -21 282 136 -84 84 294 -20 21 -20 hstemhm
+          127 93 497 96 hintmask 01101011
+          620 -5 callgsubr
+          -101 -1 callsubr
+          101 hlineto
+          -63 14 callgsubr
+          hintmask 10100111
+          -33 callgsubr
+          683 -281 -26 callsubr
+          hintmask 10011011
+          -42 callsubr
+        </CharString>
+        <CharString name="onequarter">
+          275 21 -21 89 92 531 -20 21 -20 hstemhm
+          127 93 452 92 hintmask 11101100
+          811 89 -50 callsubr
+          -139 623 rmoveto
+          -102 -1 callsubr
+          102 hlineto
+          -68 14 callgsubr
+          hintmask 11011100
+          -33 callgsubr
+          endchar
+        </CharString>
+        <CharString name="onesuperior">
+          -269 303 -21 431 -20 hstem
+          119 93 vstem
+          212 14 callgsubr
+          -33 callgsubr
+          endchar
+        </CharString>
+        <CharString name="ordfeminine">
+          -107 315 -21 184 77 31 138 -95 95 hstemhm
+          23 104 126 110 hintmask 11101100
+          194 629 rmoveto
+          42 17 -20 -54 hvcurveto
+          -91 hlineto
+          -99 -40 -70 -63 -83 62 -45 78 hvcurveto
+          96 45 20 -42 rlineto
+          84 280 hlineto
+          86 -57 61 -112 -110 -55 -47 -91 vhcurveto
+          96 hlineto
+          hintmask 11011100
+          26 18 17 51 vhcurveto
+          59 -198 rmoveto
+          -85 -43 rlineto
+          -28 1 -13 25 19 vvcurveto
+          25 15 20 34 vhcurveto
+          77 hlineto
+          endchar
+        </CharString>
+        <CharString name="ordmasculine">
+          -99 292 94 237 94 hstem
+          55 105 142 105 vstem
+          407 504 rmoveto
+          140 -50 73 -126 -132 -44 -82 -131 -139 50 -73 126 132 44 81 131 vhcurveto
+          -105 hmoveto
+          -79 -10 -39 -61 -67 -4 50 68 79 10 40 61 67 4 -51 -68 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="oslash">
+          -18 -24 -21 31 117 359 117 3 17 callsubr
+          hintmask 11011100
+          512 288 rmoveto
+          100 -17 79 -48 50 vhcurveto
+          31 65 rlineto
+          -97 hlineto
+          -9 -18 rlineto
+          hintmask 11101100
+          10 -28 -34 5 -39 hhcurveto
+          -195 -45 -125 -166 -118 19 -92 67 -51 hvcurveto
+          -34 -72 rlineto
+          97 hlineto
+          18 38 rlineto
+          -4 21 25 -3 27 hhcurveto
+          199 42 120 182 hvcurveto
+          -351 26 rmoveto
+          86 12 62 98 20 16 -2 -4 14 vhcurveto
+          -144 -303 rlineto
+          -14 30 -2 38 41 vvcurveto
+          221 -4 -30 callsubr
+          -7 -7 0 1 -6 vhcurveto
+          129 271 rlineto
+          2 -19 0 -22 -24 vvcurveto
+          endchar
+        </CharString>
+        <CharString name="otilde">
+          -45 callsubr
+          46 -7 callgsubr
+          32 15 callgsubr
+          hintmask 11101100
+          383 -99 callgsubr
+          -107 446 -72 callsubr
+        </CharString>
+        <CharString name="p">
+          -1 -149 -21 161 137 322 117 hstem
+          73 -12 callsubr
+          529 301 rmoveto
+          164 -35 102 -165 vhcurveto
+          -256 -737 130 223 hlineto
+          96 -62 rlineto
+          190 40 152 158 hvcurveto
+          -130 -20 rmoveto
+          -105 -30 -48 -78 vhcurveto
+          -88 57 rlineto
+          265 88 vlineto
+          78 30 -64 -105 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="paragraph">
+          107 -177 -21 863 -20 hstem
+          225 130 70 -43 callgsubr
+          355 665 rmoveto
+          -109 hlineto
+          -188 -33 -72 -161 -151 40 -70 160 hvcurveto
+          -409 130 vlineto
+          70 hmoveto
+          112 18 7 105 hvcurveto
+          647 vlineto
+          74 -14 30 -116 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="parenleft">
+          27 callgsubr
+          38 142 vstem
+          281 -7 rmoveto
+          -42 49 -59 153 155 vvcurveto
+          163 63 158 38 48 vhcurveto
+          -87 87 rlineto
+          -65 -66 -91 -194 -197 vvcurveto
+          -196 91 -181 65 -66 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="parenright">
+          27 callgsubr
+          139 142 vstem
+          125 -94 rmoveto
+          65 66 91 181 196 vvcurveto
+          197 -91 194 -65 66 vhcurveto
+          -87 -87 rlineto
+          38 -48 63 -158 -163 vvcurveto
+          -155 -59 -153 -42 -49 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="partialdiff">
+          -6 -6 127 279 117 104 116 hstem
+          44 -29 callgsubr
+          vstem
+          371 3 callgsubr
+          89 75 20 65 78 5 hvcurveto
+          33 2 33 -8 33 -24 rrcurveto
+          117 vmoveto
+          25 -40 -46 5 -51 hhcurveto
+          -162 -28 -152 -110 -148 51 -113 177 20 callgsubr
+          240 -100 67 -134 -48 -53 -9 -12 -54 vhcurveto
+          45 -107 rlineto
+          8 33 30 4 25 hhcurveto
+          83 43 -70 -64 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="percent">
+          287 -23 callsubr
+          hintmask 1001111110000000
+          269 471 rmoveto
+          -82 callsubr
+          529 -332 rmoveto
+          hintmask 1010111110000000
+          -83 callsubr
+          -341 360 13 callsubr
+          hintmask 0101111110000000
+          -49 callsubr
+        </CharString>
+        <CharString name="period">
+          -266 -13 163 hstem
+          63 163 vstem
+          226 -15 callgsubr
+          endchar
+        </CharString>
+        <CharString name="periodcentered">
+          -266 208 163 hstem
+          63 163 vstem
+          226 290 rmoveto
+          -51 callgsubr
+        </CharString>
+        <CharString name="perthousand">
+          650 -23 callsubr
+          80 94 102 94 hintmask 1010111111100000
+          798 250 rmoveto
+          -83 callsubr
+          464 14 rmoveto
+          -83 callsubr
+          -805 235 rmoveto
+          hintmask 0101111111100000
+          -82 callsubr
+          94 14 13 callsubr
+          -49 callsubr
+        </CharString>
+        <CharString name="pi">
+          31 21 -21 399 122 hstem
+          76 130 180 129 vstem
+          76 hmoveto
+          130 399 180 -399 129 521 -515 -91 hlineto
+          -19 5 -12 20 vhcurveto
+          51 hlineto
+          endchar
+        </CharString>
+        <CharString name="plus">
+          -18 77 -21 160 122 160 18 callgsubr
+          216 rmoveto
+          122 -160 160 -122 -160 -161 -122 161 -160 122 160 vlineto
+          endchar
+        </CharString>
+        <CharString name="plusminus">
+          -18 0 122 219 121 161 18 callgsubr
+          341 rmoveto
+          121 -160 161 -122 -161 -161 -121 161 -161 122 161 vlineto
+          160 -341 -31 callsubr
+          endchar
+        </CharString>
+        <CharString name="product">
+          272 -149 -21 760 123 -40 callgsubr
+          241 -15 callsubr
+          602 -170 rmoveto
+          883 -519 -883 139 760 241 -760 vlineto
+          endchar
+        </CharString>
+        <CharString name="q">
+          0 -148 -21 163 137 319 117 8 -20 hstemhm
+          30 -29 callgsubr
+          hintmask 11011100
+          487 -169 rmoveto
+          744 vlineto
+          hintmask 11101100
+          -28 callgsubr
+          -1 -238 rlineto
+          -2 351 rmoveto
+          -88 callsubr
+        </CharString>
+        <CharString name="question">
+          -38 -13 163 451 117 hstemhm
+          55 128 0 163 11 130 hintmask 11101000
+          487 518 rmoveto
+          154 -98 46 -113 -164 -57 -70 -130 -52 15 -34 43 -51 vhcurveto
+          101 40 rlineto
+          -19 29 -12 34 34 vvcurveto
+          70 33 13 60 50 31 -11 -71 -60 -56 -40 -19 -18 vhcurveto
+          -48 -44 rlineto
+          -31 -30 -7 -31 -43 vvcurveto
+          -40 130 31 vlineto
+          17 8 21 10 13 vhcurveto
+          67 69 rlineto
+          28 37 48 50 67 vvcurveto
+          hintmask 11011000
+          -141 -449 rmoveto
+          -51 callgsubr
+        </CharString>
+        <CharString name="questiondown">
+          -38 -197 117 451 163 hstemhm
+          38 130 11 163 0 128 hintmask 11101000
+          38 3 rmoveto
+          -154 98 -46 113 164 57 70 130 52 -15 34 -43 51 vhcurveto
+          -101 -40 rlineto
+          19 -29 12 -34 -34 vvcurveto
+          -70 -33 -13 -60 -50 -31 11 71 60 56 40 19 18 vhcurveto
+          48 44 rlineto
+          31 30 7 31 43 vvcurveto
+          40 -130 -31 vlineto
+          -17 -8 -21 -10 -13 vhcurveto
+          -67 -69 rlineto
+          -28 -37 -48 -50 -67 vvcurveto
+          hintmask 11110000
+          141 449 rmoveto
+          -67 14 -14 67 67 15 14 67 67 -15 15 -67 -67 -14 -15 -67 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="quotedbl">
+          -97 501 211 hstem
+          73 113 92 -16 callsubr
+          308 hmoveto
+          -19 callgsubr
+          endchar
+        </CharString>
+        <CharString name="quotedblbase">
+          -76 -83 -2 callgsubr
+          72 142 vstemhm
+          209 54 -73 callgsubr
+        </CharString>
+        <CharString name="quotedblleft">
+          -79 24 callgsubr
+          61 -61 142 72 61 -61 142 hintmask 11100100
+          281 659 -34 callsubr
+          hintmask 11010100
+          -26 callgsubr
+          -214 -52 -34 callsubr
+          hintmask 11011000
+          -26 callgsubr
+          endchar
+        </CharString>
+        <CharString name="quotedblright">
+          -79 506 -2 callgsubr
+          72 142 vstemhm
+          209 643 -73 callgsubr
+        </CharString>
+        <CharString name="quoteleft">
+          -288 24 callgsubr
+          142 vstemhm
+          67 659 -34 callsubr
+          hintmask 11100000
+          -26 callgsubr
+          endchar
+        </CharString>
+        <CharString name="quoteright">
+          -288 506 -2 callgsubr
+          vstemhm
+          209 643 -42 callgsubr
+        </CharString>
+        <CharString name="quotesinglbase">
+          -290 -83 -2 callgsubr
+          vstemhm
+          209 54 -42 callgsubr
+        </CharString>
+        <CharString name="quotesingle">
+          -302 501 211 hstem
+          73 -16 callsubr
+          endchar
+        </CharString>
+        <CharString name="r">
+          -171 21 -21 -58 callsubr
+          endchar
+        </CharString>
+        <CharString name="radical">
+          130 21 -21 588 124 hstem
+          647 27 callsubr
+          -286 vlineto
+          -133 -484 -53 164 rlineto
+          -141 hlineto
+          141 -392 rlineto
+          105 hlineto
+          182 588 rlineto
+          endchar
+        </CharString>
+        <CharString name="rcaron">
+          -171 21 -21 782 -20 hstem
+          53 -43 callgsubr
+          195 678 -102 callsubr
+          136 -165 -69 callgsubr
+          endchar
+        </CharString>
+        <CharString name="rcommaaccent">
+          -171 -305 -21 267 59 -58 callsubr
+          -152 -500 -46 callsubr
+          endchar
+        </CharString>
+        <CharString name="registered">
+          283 -6 40 438 85 121 40 hstem
+          60 50 174 94 103 93 170 40 vstem
+          784 356 -74 callsubr
+          -148 -196 rmoveto
+          -26 47 -34 60 -28 49 rrcurveto
+          37 17 29 39 54 vvcurveto
+          74 -49 57 -83 vhcurveto
+          -62 hlineto
+          -71 -25 -29 -62 hvcurveto
+          -306 94 140 37 vlineto
+          74 -140 rlineto
+          -8 266 rmoveto
+          -25 -17 -21 -27 vhcurveto
+          -59 67 hlineto
+          14 6 11 17 vhcurveto
+          36 hlineto
+          27 17 -18 -28 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="ring">
+          -61 584 29 callsubr
+          hstem
+          119 29 callgsubr
+          vstem
+          381 715 -88 callgsubr
+          endchar
+        </CharString>
+        <CharString name="s">
+          -60 -8 102 -102 182 215 190 -109 109 hstemhm
+          44 107 -107 126 173 113 hintmask 10010110
+          465 158 rmoveto
+          81 -31 73 -97 18 vhcurveto
+          -121 22 rlineto
+          -41 7 -5 36 22 vvcurveto
+          24 25 29 57 vhcurveto
+          hintmask 10101010
+          51 37 -14 -67 3 hvcurveto
+          113 13 hlineto
+          147 -109 30 -96 -115 -92 -58 -111 -96 46 -55 86 -14 vhcurveto
+          101 -17 rlineto
+          57 -10 4 -37 -29 vvcurveto
+          -45 -41 -13 -39 vhcurveto
+          hintmask 01101010
+          -76 -31 17 63 hvcurveto
+          -118 -12 hlineto
+          -147 114 -23 111 106 93 45 106 8 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="scaron">
+          -60 -8 102 -102 175 228 184 -109 109 203 -20 hstem
+          39 117 187 124 vstem
+          471 152 rmoveto
+          87 -32 80 -104 14 vhcurveto
+          -122 17 rlineto
+          -40 6 -8 36 21 vvcurveto
+          25 24 32 64 48 47 -13 -64 6 vhcurveto
+          113 5 rlineto
+          151 -117 30 -96 -116 -99 -58 -108 -103 49 -57 90 -11 vhcurveto
+          101 -13 rlineto
+          58 -8 6 -36 -29 vvcurveto
+          -48 -42 -14 -44 -69 -31 14 62 -1 vhcurveto
+          -118 -5 rlineto
+          -154 109 -19 110 111 99 50 110 4 vhcurveto
+          -221 526 -102 callsubr
+          endchar
+        </CharString>
+        <CharString name="section">
+          -30 -63 123 -123 235 380 192 -121 121 hstemhm
+          -5 120 272 135 hintmask 10011100
+          522 210 rmoveto
+          128 -48 83 -85 72 vhcurveto
+          -49 41 -76 36 -64 25 rrcurveto
+          20 22 32 8 38 hhcurveto
+          49 62 -18 -57 hvcurveto
+          119 9 rlineto
+          156 -23 -125 31 -82 hhcurveto
+          -156 -105 -81 -175 -122 57 -130 141 -101 hvcurveto
+          34 -24 38 -14 37 -9 rrcurveto
+          -18 -22 -30 -10 -35 hhcurveto
+          hintmask 01101100
+          -73 -63 44 68 hvcurveto
+          -120 hlineto
+          -200 9 125 -35 122 hhcurveto
+          177 94 115 158 hvcurveto
+          -220 36 rmoveto
+          -89 69 -41 84 -6 73 50 -17 55 -27 41 -35 rrcurveto
+          62 -54 13 -70 -54 vvcurveto
+          -11 vlineto
+          -27 7 -29 12 -29 23 rrcurveto
+          endchar
+        </CharString>
+        <CharString name="semicolon">
+          -252 -144 -21 307 123 0 163 hstemhm
+          89 156 -143 143 hintmask 11001000
+          245 -4 callgsubr
+          7 310 rmoveto
+          hintmask 10110000
+          -51 callgsubr
+        </CharString>
+        <CharString name="seven">
+          -8 21 -21 588 125 hstem
+          508 598 rmoveto
+          115 -453 -125 313 vlineto
+          -263 -588 rlineto
+          140 hlineto
+          endchar
+        </CharString>
+        <CharString name="six">
+          -12 -6 122 214 106 57 225 -124 124 hstemhm
+          41 134 204 129 hintmask 11011100
+          502 493 rmoveto
+          150 -71 75 -147 -210 -33 -94 -249 vhcurveto
+          -153 vlineto
+          -152 82 -76 152 132 101 54 167 162 -64 59 -156 vhcurveto
+          -113 -49 rlineto
+          149 3 6 58 100 hhcurveto
+          71 15 -31 -69 9 hvcurveto
+          hintmask 11101100
+          -101 -378 rmoveto
+          -79 -25 44 107 hvcurveto
+          117 63 rlineto
+          78 10 -50 -66 -52 -23 -46 -78 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="slash">
+          -158 -53 -21 860 -20 hstem
+          407 786 rmoveto
+          -122 hlineto
+          -285 -860 rlineto
+          122 hlineto
+          endchar
+        </CharString>
+        <CharString name="space">
+          -329 endchar
+        </CharString>
+        <CharString name="sterling">
+          18 -7 callsubr
+          173 100 191 124 hstem
+          101 16 callsubr
+          524 hmoveto
+          124 -223 vlineto
+          -51 -11 8 41 hvcurveto
+          124 113 100 -113 69 vlineto
+          82 25 40 88 46 22 -17 -23 23 vhcurveto
+          91 91 rlineto
+          53 -53 -52 20 -77 hhcurveto
+          -182 -69 -43 -197 hvcurveto
+          -75 -61 -100 61 -147 vlineto
+          -112 24 -38 114 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="summation">
+          8 -171 115 653 115 hstem
+          522 -171 rmoveto
+          -1 115 rlineto
+          -317 hlineto
+          131 251 rlineto
+          13 30 8 30 29 vvcurveto
+          31 -9 30 -14 24 vhcurveto
+          -131 228 rlineto
+          308 115 -471 -102 hlineto
+          190 -330 -186 -349 1 -102 rlineto
+          endchar
+        </CharString>
+        <CharString name="t">
+          -209 0 110 339 99 112 -20 hstemhm
+          85 -38 callgsubr
+          232 hintmask 11101000
+          317 hmoveto
+          110 -57 vlineto
+          hintmask 11110000
+          -31 -14 17 30 hvcurveto
+          292 92 99 -92 112 -130 -112 -55 -99 55 -300 vlineto
+          -74 45 -75 106 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="thorn">
+          1 -170 -21 185 127 289 117 224 -20 hstem
+          73 -12 callsubr
+          529 261 rmoveto
+          184 -15 82 -185 -53 -39 -14 -38 -34 vhcurveto
+          276 -130 -942 130 257 vlineto
+          126 -72 rlineto
+          188 12 100 167 hvcurveto
+          -130 hmoveto
+          -95 -10 -45 -98 vhcurveto
+          -88 50 rlineto
+          239 88 vlineto
+          98 10 -44 -105 hvcurveto
+          endchar
+        </CharString>
+        <CharString name="three">
+          -26 7 callsubr
+          298 224 -119 119 hstemhm
+          57 122 187 130 hintmask 10101100
+          239 325 rmoveto
+          58 -26 69 -20 -80 vvcurveto
+          -38 -27 -48 -75 vhcurveto
+          hintmask 01101100
+          -48 callgsubr
+          123 96 -39 46 -37 21 vhcurveto
+          41 42 25 61 74 vvcurveto
+          129 -79 57 -139 -139 -72 -69 -155 vhcurveto
+          122 hlineto
+          hintmask 10011100
+          81 18 24 71 71 22 -51 -17 -47 -15 -49 -23 -29 vhcurveto
+          -62 29 rlineto
+          endchar
+        </CharString>
+        <CharString name="threequarters">
+          304 21 -21 89 92 106 13 callgsubr
+          -1 -20 hstemhm
+          53 87 87 92 353 92 hintmask 1110001111000000
+          657 -5 callgsubr
+          -102 -1 callsubr
+          102 hlineto
+          -166 -13 callgsubr
+          hintmask 1101100111000000
+          -57 callgsubr
+          hintmask 1110010111000000
+          -13 callsubr
+          641 -468 -50 callsubr
+          endchar
+        </CharString>
+        <CharString name="threesuperior">
+          -193 287 13 callgsubr
+          hstemhm
+          53 87 87 92 hintmask 10101100
+          154 -13 callgsubr
+          hintmask 01101100
+          -57 callgsubr
+          hintmask 10011100
+          -13 callsubr
+          endchar
+        </CharString>
+        <CharString name="tilde">
+          -61 615 -7 callgsubr
+          hintmask 10000000
+          384 724 -87 callsubr
+          hintmask 01000000
+          -100 callsubr
+          hintmask 10000000
+          -80 callsubr
+        </CharString>
+        <CharString name="trademark">
+          363 306 -21 342 85 hstem
+          155 95 176 95 244 95 vstem
+          860 285 rmoveto
+          427 -95 vlineto
+          -104 -194 rlineto
+          -10 -5 -6 -7 -7 hhcurveto
+          -7 -6 7 9 -5 hvcurveto
+          -104 195 rlineto
+          -95 -427 95 252 hlineto
+          80 -157 rlineto
+          -17 8 17 -9 17 hhcurveto
+          17 16 9 17 9 hvcurveto
+          80 157 rlineto
+          -252 vlineto
+          -405 342 rmoveto
+          85 -315 -85 110 -342 95 342 vlineto
+          endchar
+        </CharString>
+        <CharString name="two">
+          -13 0 117 377 224 -117 117 hstemhm
+          53 131 171 142 hintmask 11011000
+          490 hmoveto
+          117 -275 vlineto
+          113 131 rlineto
+          35 48 134 115 141 vvcurveto
+          107 -80 59 -139 -195 -30 -102 -122 vhcurveto
+          131 hlineto
+          hintmask 10111000
+          61 16 46 71 71 13 -49 -24 -65 -109 -117 -41 -47 vhcurveto
+          -107 -119 rlineto
+          -31 -35 -24 -26 -41 vvcurveto
+          -61 57 -17 49 vhcurveto
+          endchar
+        </CharString>
+        <CharString name="twosuperior">
+          -203 296 84 190 143 -84 84 hstemhm
+          217 96 hintmask 11010000
+          310 296 -26 callsubr
+          hintmask 10110000
+          -42 callsubr
+        </CharString>
+        <CharString name="u">
+          0 callsubr
+          577 -20 -98 callsubr
+          endchar
+        </CharString>
+        <CharString name="uacute">
+          -79 callgsubr
+          31 -80 callgsubr
+          endchar
+        </CharString>
+        <CharString name="ucircumflex">
+          0 callsubr
+          789 -20 -98 callsubr
+          -120 -86 callsubr
+          endchar
+        </CharString>
+        <CharString name="udieresis">
+          0 callsubr
+          633 17 callgsubr
+          47 130 -74 -44 callsubr
+          -93 130 hintmask 10110010
+          -90 callgsubr
+          hintmask 01110100
+          -47 callgsubr
+          hintmask 10110010
+          30 -68 rlineto
+          hintmask 01101100
+          60 -59 callsubr
+          endchar
+        </CharString>
+        <CharString name="ugrave">
+          -79 callgsubr
+          -194 -29 callsubr
+          endchar
+        </CharString>
+        <CharString name="underscore">
+          -9 -178 87 hstem
+          552 -178 rmoveto
+          87 -552 -87 vlineto
+          endchar
+        </CharString>
+        <CharString name="v">
+          -68 14 callsubr
+          489 -14 callsubr
+          -105 -372 -106 372 -64 callgsubr
+          192 -571 rlineto
+          102 hlineto
+          endchar
+        </CharString>
+        <CharString name="w">
+          198 14 callsubr
+          755 -14 callsubr
+          -84 -372 -88 306 rlineto
+          44 -13 -17 22 -35 hhcurveto
+          -34 -24 -22 -44 -10 hvcurveto
+          -87 -306 -84 372 rlineto
+          -138 hlineto
+          160 -571 rlineto
+          107 hlineto
+          109 347 109 -347 rlineto
+          107 hlineto
+          endchar
+        </CharString>
+        <CharString name="x">
+          -34 14 callsubr
+          510 hmoveto
+          -180 291 178 280 rlineto
+          -146 hlineto
+          -97 -165 -100 165 rlineto
+          -146 hlineto
+          178 -280 -185 -291 rlineto
+          156 hlineto
+          95 175 101 -175 rlineto
+          endchar
+        </CharString>
+        <CharString name="y">
+          -67 -171 117 625 -20 hstem
+          490 -86 callgsubr
+          endchar
+        </CharString>
+        <CharString name="yacute">
+          -23 -171 117 682 23 callgsubr
+          510 -86 callgsubr
+          122 846 -103 callsubr
+        </CharString>
+        <CharString name="ydieresis">
+          -67 -171 117 681 134 hstem
+          64 -44 callsubr
+          vstem
+          490 -86 callgsubr
+          151 758 -104 callgsubr
+        </CharString>
+        <CharString name="yen">
+          -44 20 -21 97 95 70 95 356 -20 hstem
+          203 112 vstem
+          395 96 rmoveto
+          95 -80 70 82 95 -55 vlineto
+          157 356 rlineto
+          -133 hlineto
+          -106 -278 -108 278 rlineto
+          -132 hlineto
+          156 -356 rlineto
+          -48 -95 75 -70 -77 -95 77 -97 112 97 hlineto
+          endchar
+        </CharString>
+        <CharString name="z">
+          24 callsubr
+          19 callgsubr
+          284 360 rlineto
+          99 -394 -112 238 vlineto
+          -238 -3 callgsubr
+          endchar
+        </CharString>
+        <CharString name="zcaron">
+          24 callsubr
+          211 -20 19 callgsubr
+          274 360 rlineto
+          99 -384 -112 228 vlineto
+          -228 -3 callgsubr
+          119 678 -102 callsubr
+          endchar
+        </CharString>
+        <CharString name="zero">
+          6 25 callsubr
+          40 134 218 134 vstem
+          526 376 rmoveto
+          248 -53 94 -190 -210 -33 -94 -249 vhcurveto
+          -38 vlineto
+          -230 33 -113 210 209 34 113 228 vhcurveto
+          -134 -31 rmoveto
+          -135 -1 -9 -51 -99 hhcurveto
+          -95 -13 52 134 -1 hvcurveto
+          115 vlineto
+          118 1 15 57 93 hhcurveto
+          94 14 -58 -121 1 hvcurveto
+          endchar
+        </CharString>
+      </CharStrings>
+    </CFFFont>
+
+    <GlobalSubrs>
+      <!-- The 'index' attribute is only for humans; it is ignored when parsed. -->
+      <CharString index="0">
+        45 -56 rlineto
+        -37 30 23 -11 24 hhcurveto
+        17 12 15 16 6 -2 6 -3 5 hvcurveto
+        -94 121 rlineto
+        -104 hlineto
+        -94 -121 rlineto
+        -3 -5 -2 -6 -6 vvcurveto
+        -16 11 -15 18 24 23 11 37 30 vhcurveto
+        return
+      </CharString>
+      <CharString index="1">
+        rmoveto
+        -106 callsubr
+        -101 callsubr
+        return
+      </CharString>
+      <CharString index="2">
+        rmoveto
+        -66 callgsubr
+        -38 -106 rlineto
+        -3 -9 -1 -7 -6 vvcurveto
+        -18 12 -8 16 24 27 11 37 26 vhcurveto
+        return
+      </CharString>
+      <CharString index="3">
+        -106 callgsubr
+        endchar
+      </CharString>
+      <CharString index="4">
+        -37 -30 -10 -57 -57 30 -10 37 37 30 10 57 return
+      </CharString>
+      <CharString index="5">
+        605 30 callsubr
+        218 -93 111 -190 -23 callgsubr
+        -232 vhcurveto
+        -38 vlineto
+        -242 2 callsubr
+        -30 callgsubr
+        vhcurveto
+        -139 6 -97 callgsubr
+        return
+      </CharString>
+      <CharString index="6">
+        -104 callsubr
+        262 rlineto
+        return
+      </CharString>
+      <CharString index="7">
+        rmoveto
+        -37 26 27 -11 24 hhcurveto
+        16 12 8 18 6 -1 7 -3 9 hvcurveto
+        -38 106 -64 callgsubr
+        return
+      </CharString>
+      <CharString index="8">
+        258 -30 callsubr
+        -101 -9 77 82 vhcurveto
+        -18 callsubr
+        98 110 1 -60 -92 -97 callsubr
+        return
+      </CharString>
+      <CharString index="9">
+        67 -14 14 -67 -92 callgsubr
+        vhcurveto
+        return
+      </CharString>
+      <CharString index="10">
+        rmoveto
+        -120 -3 -103 -141 -145 2 -71 callgsubr
+        4 100 140 138 6 -101 -104 vhcurveto
+        return
+      </CharString>
+      <CharString index="11">
+        606 -5 callgsubr
+        -138 -463 hlineto
+        -92 -59 -39 -75 -75 -58 39 92 vhcurveto
+        463 -139 -468 vlineto
+        -161 126 -89 146 146 126 89 161 vhcurveto
+        return
+      </CharString>
+      <CharString index="12">
+        hstemhm
+        39 132 214 118 hintmask 01111110
+        -91 callsubr
+        hintmask 10111110
+        -77 callsubr
+        return
+      </CharString>
+      <CharString index="13">
+        hstem
+        62 139 267 16 callsubr
+        -96 callgsubr
+        return
+      </CharString>
+      <CharString index="14">
+        65 30 25 82 vhcurveto
+        97 -303 -78 callsubr
+        36 57 hvcurveto
+        123 hlineto
+        return
+      </CharString>
+      <CharString index="15">
+        -67 -15 -14 -67 -67 15 -15 67 67 14 15 67 return
+      </CharString>
+      <CharString index="16">
+        30 -65 rlineto
+        96 384 hlineto
+        114 -77 81 -149 -147 -73 -71 -126 vhcurveto
+        108 hlineto
+        return
+      </CharString>
+      <CharString index="17">
+        500 hmoveto
+        571 -130 -387 vlineto
+        -117 -63 rlineto
+        -41 -35 24 71 hvcurveto
+        355 -130 -383 vlineto
+        -57 11 -49 42 -42 vhcurveto
+        return
+      </CharString>
+      <CharString index="18">
+        552 hmoveto
+        -90 callsubr
+        -469 -514 hlineto
+        -44 callgsubr
+        return
+      </CharString>
+      <CharString index="19">
+        rmoveto
+        103 -59 28 -72 -72 -59 -29 -102 -102 59 -29 72 72 59 29 102 vhcurveto
+        -73 hmoveto
+        -52 -26 -7 -32 -32 -26 7 52 52 26 6 32 32 26 -6 -52 vhcurveto
+        return
+      </CharString>
+      <CharString index="20">
+        501 255 -81 callsubr
+        -165 -82 -82 -190 -251 75 return
+      </CharString>
+      <CharString index="21">
+        -14 callsubr
+        -110 -397 -102 397 -64 callgsubr
+        172 -550 -10 -28 rlineto
+        -38 -14 -14 -9 -37 hhcurveto
+        -40 -117 61 hlineto
+        43 39 10 30 30 hvcurveto
+        16 16 13 22 10 29 rrcurveto
+        return
+      </CharString>
+      <CharString index="22">
+        -51 callsubr
+        50 154 -95 callgsubr
+        return
+      </CharString>
+      <CharString index="23">
+        -16 28 20 -7 29 hhcurveto
+        38 31 15 44 44 hvcurveto
+        return
+      </CharString>
+      <CharString index="24">
+        83 -53 callgsubr
+        87 154 -95 callsubr
+        return
+      </CharString>
+      <CharString index="25">
+        383 vlineto
+        57 -11 49 -42 42 vhcurveto
+        29 -29 -32 17 -52 hhcurveto
+        -160 -46 callgsubr
+        117 49 rlineto
+        41 35 -14 -71 hvcurveto
+        -365 vlineto
+        return
+      </CharString>
+      <CharString index="26">
+        -195 -45 -125 -166 -180 44 -122 196 return
+      </CharString>
+      <CharString index="27">
+        782 -105 callgsubr
+        return
+      </CharString>
+      <CharString index="28">
+        0 callsubr
+        634 154 -98 callsubr
+        return
+      </CharString>
+      <CharString index="29">
+        -65 callgsubr
+        113 23 callgsubr
+        -101 callgsubr
+        return
+      </CharString>
+      <CharString index="30">
+        569 -5 callgsubr
+        -151 hlineto
+        -131 -287 -133 287 rlineto
+        -151 hlineto
+        214 -420 rlineto
+        -292 138 292 vlineto
+        return
+      </CharString>
+      <CharString index="31">
+        -67 callgsubr
+        -54 -99 54 -450 vlineto
+        return
+      </CharString>
+      <CharString index="32">
+        -61 callsubr
+        vhcurveto
+        1 callsubr
+        return
+      </CharString>
+      <CharString index="33">
+        -62 callsubr
+        93 154 -84 callsubr
+        return
+      </CharString>
+      <CharString index="34">
+        -76 callsubr
+        hintmask 11110000
+        -70 callgsubr
+        214 52 -76 callsubr
+        -70 callgsubr
+        endchar
+      </CharString>
+      <CharString index="35">
+        rmoveto
+        155 vlineto
+        -114 93 114 93 rlineto
+        155 vlineto
+        -192 -171 rlineto
+        -28 -28 -16 -23 -24 vvcurveto
+        -24 16 -24 26 -29 vhcurveto
+        return
+      </CharString>
+      <CharString index="36">
+        111 109 -1 vhcurveto
+        37 vlineto
+        119 return
+      </CharString>
+      <CharString index="37">
+        22 6 -10 -22 hvcurveto
+        -64 vlineto
+        27 10 34 46 50 vvcurveto
+        return
+      </CharString>
+      <CharString index="38">
+        rmoveto
+        -19 14 -17 -2 -22 -3 -138 -57 rcurveline
+        -30 50 rlineto
+        -97 -571 130 404 hlineto
+        66 39 57 11 34 -13 rrcurveto
+        return
+      </CharString>
+      <CharString index="39">
+        124 -242 -56 callsubr
+        99 return
+      </CharString>
+      <CharString index="40">
+        61 110 -84 hlineto
+        -106 -46 -75 11 callgsubr
+        return
+      </CharString>
+      <CharString index="41">
+        -137 hlineto
+        return
+      </CharString>
+      <CharString index="42">
+        77 21 -21 123 117 472 -20 return
+      </CharString>
+      <CharString index="43">
+        rlineto
+        -66 callgsubr
+        return
+      </CharString>
+      <CharString index="44">
+        112 51 19 62 69 32 -21 -110 vhcurveto
+        return
+      </CharString>
+      <CharString index="45">
+        -139 vlineto
+        -90 66 -27 79 78 67 27 90 vhcurveto
+        return
+      </CharString>
+      <CharString index="46">
+        222 hmoveto
+        712 -17 callsubr
+        vlineto
+        return
+      </CharString>
+      <CharString index="47">
+        -182 -8 -146 -140 return
+      </CharString>
+      <CharString index="48">
+        21 -21 712 -20 return
+      </CharString>
+      <CharString index="49">
+        hstem
+        508 hmoveto
+        124 -325 vlineto
+        325 478 rlineto
+        110 -455 -124 291 vlineto
+        -280 -406 rlineto
+        -20 -30 -11 -31 -28 vvcurveto
+        -52 36 -41 77 vhcurveto
+        return
+      </CharString>
+      <CharString index="50">
+        -31 -5 32 15 hvcurveto
+        -90 hlineto
+        -76 38 -56 90 86 51 45 75 49 -18 29 -19 16 vhcurveto
+        20 24 12 34 40 vvcurveto
+        78 -49 36 -83 -85 -44 -44 -101 vhcurveto
+        87 hlineto
+        return
+      </CharString>
+      <CharString index="51">
+        -5 callgsubr
+        -85 callsubr
+        return
+      </CharString>
+      <CharString index="52">
+        -221 292 187 256 rlineto
+        -147 hlineto
+        -182 -271 rlineto
+        475 -130 -752 130 121 vlineto
+        57 81 150 -202 rlineto
+        endchar
+      </CharString>
+      <CharString index="53">
+        -66 -21 -38 -73 -105 -15 55 105 vhcurveto
+        return
+      </CharString>
+      <CharString index="54">
+        -5 callsubr
+        476 124 return
+      </CharString>
+      <CharString index="55">
+        rmoveto
+        575 vlineto
+        -66 callsubr
+        hvcurveto
+        return
+      </CharString>
+      <CharString index="56">
+        -98 callgsubr
+        endchar
+      </CharString>
+      <CharString index="57">
+        38 20 -14 -20 -8 callgsubr
+        hvcurveto
+        -53 callsubr
+        8 return
+      </CharString>
+      <CharString index="58">
+        rmoveto
+        -139 -492 hlineto
+        -67 callsubr
+      </CharString>
+      <CharString index="59">
+        -69 -10 57 26 hvcurveto
+        -127 hlineto
+        -117 64 -85 146 146 82 75 return
+      </CharString>
+      <CharString index="60">
+        -29 29 32 -17 52 hhcurveto
+        160 74 rlineto
+        return
+      </CharString>
+      <CharString index="61">
+        -74 -30 68 rlineto
+        -97 -571 130 401 hlineto
+        return
+      </CharString>
+      <CharString index="62">
+        hstemhm
+        79 -41 callsubr
+        return
+      </CharString>
+      <CharString index="63">
+        -141 68 -57 159 vhcurveto
+        return
+      </CharString>
+      <CharString index="64">
+        130 vstem
+        return
+      </CharString>
+      <CharString index="65">
+        -76 callsubr
+        hintmask 11100000
+        -70 callgsubr
+        endchar
+      </CharString>
+      <CharString index="66">
+        99 87 2 callgsubr
+        151 -45 callgsubr
+        return
+      </CharString>
+      <CharString index="67">
+        hstem
+        -28 callsubr
+        return
+      </CharString>
+      <CharString index="68">
+        vstem
+        522 hmoveto
+        124 -212 -56 callsubr
+        514 -139 -514 vlineto
+        -44 callgsubr
+        return
+      </CharString>
+      <CharString index="69">
+        130 -130 return
+      </CharString>
+      <CharString index="70">
+        47 vlineto
+        -40 callsubr
+        return
+      </CharString>
+      <CharString index="71">
+        -79 callsubr
+        49 154 -32 callsubr
+        hintmask 10101111
+        return
+      </CharString>
+      <CharString index="72">
+        -37 callsubr
+        113 154 -39 callsubr
+        return
+      </CharString>
+      <CharString index="73">
+        85 29 -46 -73 13 hvcurveto
+        130 hlineto
+        164 -112 79 -145 -216 -57 -150 -193 vhcurveto
+        -60 vlineto
+        return
+      </CharString>
+      <CharString index="74">
+        55 -9 17 -55 vhcurveto
+        -85 -59 hlineto
+        56 -19 rlineto
+        -353 vlineto
+        return
+      </CharString>
+      <CharString index="75">
+        hstemhm
+        47 -21 callgsubr
+        return
+      </CharString>
+      <CharString index="76">
+        hstemhm
+        9 -29 callgsubr
+        return
+      </CharString>
+      <CharString index="77">
+        197 86 101 240 return
+      </CharString>
+      <CharString index="78">
+        130 197 130 return
+      </CharString>
+      <CharString index="79">
+        -66 callsubr
+        -61 callsubr
+        hvcurveto
+        139 75 return
+      </CharString>
+      <CharString index="80">
+        -68 callsubr
+        61 154 -31 callgsubr
+        hintmask 01111100
+        return
+      </CharString>
+      <CharString index="81">
+        -22 -6 10 22 hvcurveto
+        64 vlineto
+        -27 -10 -34 -46 -50 vvcurveto
+        return
+      </CharString>
+      <CharString index="82">
+        -41 hhcurveto
+        -61 -41 -24 -62 -62 hvcurveto
+        82 -82 rlineto
+        37 37 22 5 27 hhcurveto
+        29 24 -9 -15 29 hvcurveto
+        return
+      </CharString>
+      <CharString index="83">
+        -104 -89 -127 -123 79 -60 110 -16 vhcurveto
+        116 -12 rlineto
+        52 -8 33 -27 -50 vvcurveto
+        -57 return
+      </CharString>
+      <CharString index="84">
+        -200 -83 -111 return
+      </CharString>
+      <CharString index="85">
+        -101 callsubr
+        endchar
+      </CharString>
+      <CharString index="86">
+        130 193 130 return
+      </CharString>
+      <CharString index="87">
+        -18 225 121 hstem
+        493 10 callsubr
+        -443 -121 vlineto
+        endchar
+      </CharString>
+      <CharString index="88">
+        10 211 rlineto
+        -123 hlineto
+        10 -211 rlineto
+        return
+      </CharString>
+      <CharString index="89">
+        39 -8 callsubr
+        return
+      </CharString>
+      <CharString index="90">
+        130 450 return
+      </CharString>
+      <CharString index="91">
+        rmoveto
+        -108 -4 -51 -26 -32 vhcurveto
+        -29 -24 -32 -15 -48 hhcurveto
+        -95 -30 17 53 hvcurveto
+        return
+      </CharString>
+      <CharString index="92">
+        69 -92 callsubr
+        return
+      </CharString>
+      <CharString index="93">
+        125 vlineto
+        48 32 -15 -29 24 hvcurveto
+        26 -32 4 -45 -108 vvcurveto
+        endchar
+      </CharString>
+      <CharString index="94">
+        477 rmoveto
+        17 -7 rlineto
+        27 -12 29 -12 -35 vvcurveto
+        -17 -12 -22 -35 vhcurveto
+        return
+      </CharString>
+      <CharString index="95">
+        243 -124 124 hstemhm
+        return
+      </CharString>
+      <CharString index="96">
+        107 -22 callsubr
+        return
+      </CharString>
+      <CharString index="97">
+        47 hlineto
+        -40 callsubr
+        return
+      </CharString>
+      <CharString index="98">
+        130 401 vlineto
+        124 49 rlineto
+        41 31 -23 -69 hvcurveto
+        -358 return
+      </CharString>
+      <CharString index="99">
+        -26 -20 -5 -21 -12 -11 1 2 -12 return
+      </CharString>
+      <CharString index="100">
+        86 -45 87 hstemhm
+        return
+      </CharString>
+      <CharString index="101">
+        -3 107 11 98 -80 80 rrcurveto
+        47 -47 -67 21 -74 hhcurveto
+        -277 return
+      </CharString>
+      <CharString index="102">
+        712 rmoveto
+        return
+      </CharString>
+      <CharString index="103">
+        142 rmoveto
+        -143 -307 hlineto
+        57 22 86 75 105 vvcurveto
+        return
+      </CharString>
+      <CharString index="104">
+        -295 rlineto
+        -23 -30 -10 -30 -25 vvcurveto
+        -46 36 -33 70 vhcurveto
+        return
+      </CharString>
+      <CharString index="105">
+        -21 96 133 hstemhm
+        67 142 return
+      </CharString>
+      <CharString index="106">
+        -59 callgsubr
+        hstem
+        return
+      </CharString>
+      <CharString index="107">
+        48 -21 496 -20 hstem
+        return
+      </CharString>
+      <CharString index="108">
+        -40 callgsubr
+        vstem
+        return
+      </CharString>
+      <CharString index="109">
+        117 -117 return
+      </CharString>
+      <CharString index="110">
+        152 rmoveto
+        -25 -26 -30 0 -44 -5 rrcurveto
+        -78 -20 45 return
+      </CharString>
+      <CharString index="111">
+        -104 -74 117 255 116 255 117 hstemhm
+        return
+      </CharString>
+      <CharString index="112">
+        hmoveto
+        752 -298 vlineto
+        -106 -46 -74 11 callgsubr
+        return
+      </CharString>
+      <CharString index="113">
+        30 -5 callsubr
+        395 205 -121 121 return
+      </CharString>
+      <CharString index="114">
+        0 -20 33 -21 720 -20 return
+      </CharString>
+      <CharString index="115">
+        36 78 hvcurveto
+        -126 -6 rlineto
+        return
+      </CharString>
+      <CharString index="116">
+        117 185 -20 hstem
+        224 -43 callgsubr
+        return
+      </CharString>
+      <CharString index="117">
+        628 23 callgsubr
+        return
+      </CharString>
+      <CharString index="118">
+        -74 hvcurveto
+        -55 return
+      </CharString>
+      <CharString index="119">
+        204 -117 117 hstemhm
+        31 130 return
+      </CharString>
+      <CharString index="120">
+        85 -85 132 149 145 -86 86 return
+      </CharString>
+      <CharString index="121">
+        282 rmoveto
+        359 vlineto
+        return
+      </CharString>
+      <CharString index="122">
+        130 221 130 return
+      </CharString>
+      <CharString index="123">
+        -170 110 return
+      </CharString>
+      <CharString index="124">
+        134 hstemhm
+        return
+      </CharString>
+      <CharString index="125">
+        -20 hstem
+        211 122 vstem
+        493 return
+      </CharString>
+      <CharString index="126">
+        hstem
+        434 hmoveto
+        112 -274 vlineto
+        return
+      </CharString>
+      <CharString index="127">
+        72 83 31 84 74 hvcurveto
+        321 vlineto
+        return
+      </CharString>
+      <CharString index="128">
+        521 -130 -521 vlineto
+        endchar
+      </CharString>
+      <CharString index="129">
+        712 -17 callsubr
+        vlineto
+        endchar
+      </CharString>
+      <CharString index="130">
+        154 hstem
+        return
+      </CharString>
+      <CharString index="131">
+        588 133 96 -20 hstemhm
+        67 return
+      </CharString>
+      <CharString index="132">
+        rmoveto
+        350 -130 -350 vlineto
+        return
+      </CharString>
+      <CharString index="133">
+        41 hhcurveto
+        61 42 24 62 62 hvcurveto
+        return
+      </CharString>
+      <CharString index="134">
+        -225 -73 -21 900 -20 hstem
+        return
+      </CharString>
+      <CharString index="135">
+        8 callsubr
+        99 return
+      </CharString>
+      <CharString index="136">
+        73 116 73 return
+      </CharString>
+      <CharString index="137">
+        -712 139 return
+      </CharString>
+    </GlobalSubrs>
+
+  </CFF>
+
+</ttFont>
